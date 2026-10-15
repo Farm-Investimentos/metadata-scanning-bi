@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Inventário de BIs · Farm Analytics</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Inter:wght@400;500;600&family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/inventario.css">
+</head>
+<body>
+  <div class="bg" aria-hidden="true">
+    <span class="blob b1"></span><span class="blob b2"></span><span class="blob b3"></span><span class="blob b4"></span>
+    <div class="grid-overlay"></div>
+  </div>
+
+  <div class="app">
+    <!-- ================= SIDEBAR (flutuante, com entalhe) ================= -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sb-panel">
+        <a class="brand" href="inventario.html" data-label="Farmtech · Inventário de BIs">
+          <div class="brand-logo">
+            <img class="logo-dark-theme" src="assets/img/farmtech-logo-lime.png" alt="Farmtech">
+            <img class="logo-light" src="assets/img/farmtech-logo-dark.png" alt="Farmtech">
+            <div class="brand-kicker">Data &amp; Analytics · <b>Inventário</b></div>
+          </div>
+          <div class="brand-mark" aria-hidden="true">
+            <img class="logo-dark-theme" src="assets/img/farmtech-mark-lime.png" alt="">
+            <img class="logo-light" src="assets/img/farmtech-mark-dark.png" alt="">
+          </div>
+        </a>
+
+        <div class="sb-label">Inventário</div>
+        <nav class="nav" id="nav">
+          <button data-view="resumo" class="active" data-label="Resumo do inventário"><span class="ni"><i data-ico="home"></i></span><span class="nl">Resumo do inventário</span></button>
+          <button data-view="catalogo" data-label="Catálogo estruturado"><span class="ni"><i data-ico="list"></i></span><span class="nl">Catálogo estruturado</span></button>
+          <button data-view="hierarquia" data-label="Hierarquia"><span class="ni"><i data-ico="tree"></i></span><span class="nl">Hierarquia</span></button>
+          <button data-view="completude" data-label="Completude de metadados"><span class="ni"><i data-ico="check"></i></span><span class="nl">Completude</span></button>
+          <button data-view="dicionario" data-label="Dicionário de campos"><span class="ni"><i data-ico="book"></i></span><span class="nl">Dicionário de campos</span></button>
+        </nav>
+
+        <div class="sb-label">Painéis</div>
+        <nav class="nav panels">
+          <a href="index.html" data-label="Catálogo analítico"><span class="ni"><i data-ico="compass"></i></span><span class="nl">Catálogo analítico</span></a>
+          <a href="inventario.html" class="active" data-label="Inventário estruturado" aria-current="page"><span class="ni"><i data-ico="archive"></i></span><span class="nl">Inventário estruturado</span></a>
+        </nav>
+
+        <div class="side-foot">
+          <div class="side-card">
+            <div class="brand-kicker">Entregável</div>
+            <div class="strong">Inventário &amp; catalogação</div>
+            <div class="muted small" style="margin-top:6px">Todos os relatórios encontrados na varredura, inclusive BI Histórico e Usage Metrics.</div>
+          </div>
+          <button class="theme-toggle" id="themeToggle" data-label="Alternar tema claro/escuro"><span class="ni"><i data-ico="sun"></i></span><span class="nl">Tema claro/escuro</span></button>
+        </div>
+      </div>
+      <button class="sb-toggle" id="sbToggle" aria-controls="sidebar"><i data-ico="chev"></i></button>
+    </aside>
+
+    <!-- ================= MAIN ================= -->
+    <main class="main">
+      <header class="topbar">
+        <button class="menu-btn" id="menuBtn" aria-label="Menu"><i data-ico="menu"></i></button>
+        <div class="top-actions">
+          <div class="search">
+            <i data-ico="search"></i>
+            <input id="globalSearch" placeholder="Buscar dashboard, workspace, owner…" autocomplete="off">
+            <kbd>Ctrl K</kbd>
+            <div class="search-results" id="searchResults"></div>
+          </div>
+          <span class="status-pill"><span class="dot"></span><span id="topStatus">—</span></span>
+        </div>
+      </header>
+      <div class="page-head page-title">
+        <div class="crumb">farmtech / inventário de BIs / <b id="viewKicker">resumo</b></div>
+        <h1 id="viewTitle">Inventário dos dashboards Power BI</h1>
+      </div>
+
+      <!-- ---------- RESUMO ---------- -->
+      <section class="view active" id="view-resumo">
+        <div class="hero glass inv-hero">
+          <div class="hero-txt">
+            <span class="status-pill"><span class="dot"></span>inventário &amp; catalogação</span>
+            <h2>Cada dashboard, <span class="hl">catalogado</span>.</h2>
+            <p class="muted">Inventário completo dos relatórios Power BI encontrados na varredura de metadados, com <b>ficha catalográfica padronizada</b>:
+              identificação, propriedade, conteúdo, modelo semântico, linhagem, atualização, uso e ciclo de vida.</p>
+            <div class="row gap" style="margin-top:4px">
+              <button class="btn primary" data-goto="catalogo"><i data-ico="list"></i> Abrir catálogo</button>
+              <button class="btn" data-goto="dicionario"><i data-ico="book"></i> Ver dicionário de campos</button>
+            </div>
+          </div>
+          <div class="inv-stack" id="invStack" aria-hidden="true"></div>
+        </div>
+
+        <div class="kpis" id="invKpis"></div>
+
+        <div class="grid g-3">
+          <div class="card glass span-2">
+            <div class="card-h"><h3>Dashboards por workspace</h3><div class="legend" id="legSit"></div></div>
+            <div id="barWsInv" class="chart"></div>
+          </div>
+          <div class="card glass span-1">
+            <div class="card-h"><h3>Situação no inventário</h3><span class="chip">clique para filtrar</span></div>
+            <div id="sitList" class="sit-list"></div>
+          </div>
+        </div>
+
+        <div class="grid g-3">
+          <div class="card glass span-1">
+            <div class="card-h"><h3>Por tema de negócio</h3></div>
+            <div id="barTema" class="chart short"></div>
+          </div>
+          <div class="card glass span-1">
+            <div class="card-h"><h3>Criados por ano</h3></div>
+            <div id="colAno" class="chart short"></div>
+          </div>
+          <div class="card glass span-1">
+            <div class="card-h"><h3>Modo de armazenamento</h3></div>
+            <div id="barModo" class="chart short"></div>
+          </div>
+        </div>
+
+        <div class="card glass">
+          <div class="card-h"><h3>O que é cada tema</h3><span class="chip">clique para filtrar o catálogo</span></div>
+          <div id="temaLegInv"></div>
+        </div>
+      </section>
+
+      <!-- ---------- CATÁLOGO ESTRUTURADO ---------- -->
+      <section class="view" id="view-catalogo">
+        <div class="toolbar glass">
+          <input class="mini-search wide" id="invSearch" placeholder="Filtrar por nome, ID, workspace, owner, dataset, tabela…">
+          <div class="tb-group"><label>Workspace</label><select id="fWs"><option value="">Todos</option></select></div>
+          <div class="tb-group"><label>Tema</label><select id="fTema"><option value="">Todos</option></select></div>
+          <div class="tb-group"><label>Situação</label><select id="fSit"><option value="">Todas</option></select></div>
+          <div class="tb-group"><label>Ano</label><select id="fAno"><option value="">Todos</option></select></div>
+          <div class="tb-group"><label>Owner</label><select id="fOwner"><option value="">Todos</option></select></div>
+          <div class="row gap">
+            <button class="btn" id="expCsv"><i data-ico="download"></i> CSV</button>
+            <button class="btn" id="expJson"><i data-ico="download"></i> JSON</button>
+          </div>
+        </div>
+        <div class="facet-row" id="facetSit"></div>
+        <div class="card glass">
+          <div class="card-h"><h3 id="catCount">Catálogo</h3><span class="muted small">Clique numa linha para abrir a ficha catalográfica</span></div>
+          <div class="table-wrap xtall"><table class="dt" id="invTable"></table></div>
+        </div>
+      </section>
+
+      <!-- ---------- HIERARQUIA ---------- -->
+      <section class="view" id="view-hierarquia">
+        <div class="section-intro">
+          <p class="muted">Estrutura do inventário em três níveis: <b>workspace › dashboard › página</b>. O tamanho de cada bloco é o número de dashboards. Clique num bloco para aproximar e no caminho do título para voltar; clicar de novo num dashboard (ou numa página) abre a ficha.</p>
+        </div>
+        <div class="card glass">
+          <div class="card-h"><h3 id="icicleTitle">Inventário</h3><div class="legend" id="legIcicle"></div></div>
+          <div id="icicle" class="icicle"></div>
+        </div>
+        <div class="ws-cards" id="wsCards"></div>
+      </section>
+
+      <!-- ---------- COMPLETUDE ---------- -->
+      <section class="view" id="view-completude">
+        <div class="kpis small" id="qKpis"></div>
+        <div class="grid g-3">
+          <div class="card glass span-1">
+            <div class="card-h"><h3>Preenchimento por campo</h3></div>
+            <p class="muted small" style="margin-top:-4px">% dos dashboards em que o campo veio preenchido. Campos que não se aplicam a um relatório ficam fora da conta.</p>
+            <div id="fieldBars" class="field-bars"></div>
+          </div>
+          <div class="card glass span-2">
+            <div class="card-h"><h3>Workspace × campo</h3><div class="legend" id="legHeat"></div></div>
+            <div id="heat" class="heat"></div>
+          </div>
+        </div>
+        <div class="card glass">
+          <div class="card-h"><h3>Fichas com lacunas</h3><span class="muted small">Ordenado da menor para a maior completude</span></div>
+          <div class="table-wrap tall"><table class="dt" id="gapTable"></table></div>
+        </div>
+      </section>
+
+      <!-- ---------- DICIONÁRIO ---------- -->
+      <section class="view" id="view-dicionario">
+        <div class="section-intro">
+          <p class="muted">Esquema da ficha catalográfica: conjunto de campos mapeados a partir da varredura dos metadados de relatórios, dashboards e workspaces históricos. Para cada campo, são apresentados seu significado e origem. Trata-se da base do inventário, sendo a mesma estrutura exportada nos formatos CSV e JSON para compor o Catálogo Estruturado.</p>
+        </div>
+        <div class="dict-groups" id="dictGroups"></div>
+      </section>
+    </main>
+  </div>
+
+  <!-- ================= MODAL ================= -->
+  <div class="modal-backdrop" id="modal" aria-hidden="true">
+    <div class="modal glass" role="dialog" aria-modal="true">
+      <button class="modal-x" id="modalClose" aria-label="Fechar">×</button>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+  <div class="tooltip" id="tooltip"></div>
+
+  <script src="assets/vendor/d3.min.js"></script>
+  <script src="data/catalogo_data.js"></script>
+  <script src="assets/js/shell.js"></script>
+  <script src="assets/js/inventario.js"></script>
+</body>
+</html>

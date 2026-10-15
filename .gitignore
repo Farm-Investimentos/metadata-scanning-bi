@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.databricks/
+# saídas brutas pesadas (regeneradas pelo pipeline)
+saida/metadados.json
+saida/*.xlsx

@@ -1,0 +1,20 @@
+﻿workspace_id,nome,tipo,capacidade_dedicada
+b04f94ff-357e-4ab3-869e-8d2f5cf1eb55,BI Histórico,Workspace,False
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,Workspace,False
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,Workspace,False
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,Workspace,True
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,Workspace,False
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,Workspace,False
+bf667628-d967-4061-9f22-64fce7ea51fa,BI Inside Sales,Workspace,False
+4240531c-86dc-4c44-940c-e12616563891,BI Tecnologia,Workspace,False
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,Workspace,False
+13b39d0d-767c-4eb1-9c07-dc42962d2396,BI - Credito UAT,Workspace,False
+5c58b5cb-49d5-48bf-b3b5-edadfd659bfa,BI Cadastro,Workspace,False
+49b0526d-607a-4d73-ae1d-38132788f084,BI Cobrança,Workspace,False
+692917d7-8916-42c5-8a88-90cd9e2e1e6a,BI Homologação - Risco,Workspace,False
+04ecc7ed-4848-47d3-9ab3-c478f11231a4,BI Homologação - Compliance,Workspace,False
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,Workspace,False
+9ad2d339-40d2-4713-90ea-f2b85c153fe0,BI Produtos Digitais,Workspace,False
+ebd3546f-b29f-4bda-9eec-769536760830,BI Mercado De Capitais,Workspace,False
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,Workspace,False
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,Workspace,False

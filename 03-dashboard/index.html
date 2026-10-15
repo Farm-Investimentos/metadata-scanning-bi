@@ -1,0 +1,325 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Catálogo de BIs · Farm Analytics</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Inter:wght@400;500;600&family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <!-- fundo animado -->
+  <div class="bg" aria-hidden="true">
+    <span class="blob b1"></span><span class="blob b2"></span><span class="blob b3"></span><span class="blob b4"></span>
+    <div class="grid-overlay"></div>
+  </div>
+
+  <div class="app">
+    <!-- ================= SIDEBAR (flutuante, com entalhe) ================= -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sb-panel">
+        <a class="brand" href="index.html" data-label="Farmtech · Catálogo BI">
+          <div class="brand-logo">
+            <img class="logo-dark-theme" src="assets/img/farmtech-logo-lime.png" alt="Farmtech">
+            <img class="logo-light" src="assets/img/farmtech-logo-dark.png" alt="Farmtech">
+            <div class="brand-kicker">Data &amp; Analytics · <b>Catálogo BI</b></div>
+          </div>
+          <div class="brand-mark" aria-hidden="true">
+            <img class="logo-dark-theme" src="assets/img/farmtech-mark-lime.png" alt="">
+            <img class="logo-light" src="assets/img/farmtech-mark-dark.png" alt="">
+          </div>
+        </a>
+
+        <div class="sb-label">Análise</div>
+        <nav class="nav" id="nav">
+          <button data-view="overview" class="active" data-label="Visão geral"><span class="ni"><i data-ico="home"></i></span><span class="nl">Visão geral</span></button>
+          <button data-view="graph" data-label="Grafo de relatórios"><span class="ni"><i data-ico="graph"></i></span><span class="nl">Grafo de relatórios</span></button>
+          <button data-view="themes" data-label="Temas &amp; clusters"><span class="ni"><i data-ico="layers"></i></span><span class="nl">Temas &amp; clusters</span></button>
+          <button data-view="tables" data-label="Tabelas &amp; colunas"><span class="ni"><i data-ico="table"></i></span><span class="nl">Tabelas &amp; colunas</span></button>
+          <button data-view="overlap" data-label="Sobreposições"><span class="ni"><i data-ico="overlap"></i></span><span class="nl">Sobreposições</span></button>
+          <button data-view="health" data-label="Racionalização"><span class="ni"><i data-ico="pulse"></i></span><span class="nl">Racionalização</span></button>
+          <button data-view="catalog" data-label="Catálogo completo"><span class="ni"><i data-ico="list"></i></span><span class="nl">Catálogo completo</span></button>
+        </nav>
+
+        <div class="sb-label">Painéis</div>
+        <nav class="nav panels">
+          <a href="index.html" class="active" data-label="Catálogo analítico" aria-current="page"><span class="ni"><i data-ico="compass"></i></span><span class="nl">Catálogo analítico</span></a>
+          <a href="inventario.html" data-label="Inventário estruturado"><span class="ni"><i data-ico="archive"></i></span><span class="nl">Inventário estruturado</span></a>
+        </nav>
+
+        <div class="side-foot">
+          <div class="side-card">
+            <div class="brand-kicker">Extração</div>
+            <div id="foot-extracao" class="strong">—</div>
+            <div class="muted small" style="margin-top:6px">Workspace <b>BI Histórico</b> fora das relações e clusters.</div>
+          </div>
+          <button class="theme-toggle" id="themeToggle" data-label="Alternar tema claro/escuro"><span class="ni"><i data-ico="sun"></i></span><span class="nl">Tema claro/escuro</span></button>
+        </div>
+      </div>
+      <button class="sb-toggle" id="sbToggle" aria-controls="sidebar"><i data-ico="chev"></i></button>
+    </aside>
+
+    <!-- ================= MAIN ================= -->
+    <main class="main">
+      <header class="topbar">
+        <button class="menu-btn" id="menuBtn" aria-label="Menu"><i data-ico="menu"></i></button>
+        <div class="top-actions">
+          <div class="search">
+            <i data-ico="search"></i>
+            <input id="globalSearch" placeholder="Buscar relatório, tabela ou medida…" autocomplete="off">
+            <kbd>Ctrl K</kbd>
+            <div class="search-results" id="searchResults"></div>
+          </div>
+          <span class="status-pill"><span class="dot"></span><span id="topStatus">—</span></span>
+        </div>
+      </header>
+      <div class="page-head page-title">
+        <div class="crumb">farmtech / catálogo bi / <b id="viewKicker">visão consolidada</b></div>
+        <h1 id="viewTitle">Catálogo de relatórios Power BI</h1>
+      </div>
+
+      <!-- ---------- VISÃO GERAL ---------- -->
+      <section class="view active" id="view-overview">
+        <div class="hero glass">
+          <div class="hero-txt">
+            <span class="status-pill"><span class="dot"></span>metadata scanning</span>
+            <h2>Catálogo de relatórios <span class="hl">Power BI</span>.</h2>
+            <p class="muted">Mapa de relatórios, tabelas, indicadores e uso dos workspaces Power BI: base para consolidar BIs em torno das tabelas-chave sob os temas
+              <b>Solicitações, Portfólio, Risco, Cotas, Limites, PDD, Compliance e Cliente</b>.</p>
+          </div>
+          <div class="hero-orb" aria-hidden="true"><canvas id="heroCanvas"></canvas></div>
+        </div>
+
+        <div class="kpis" id="kpis"></div>
+
+        <div class="grid g-3">
+          <div class="card glass span-1">
+            <div class="card-h"><h3>Relatórios por tema</h3><span class="chip">clique para detalhar</span></div>
+            <div id="donutTemas" class="chart"></div>
+          </div>
+          <div class="card glass span-2">
+            <div class="card-h"><h3>Workspaces × recomendação</h3><div class="legend" id="legRecWs"></div></div>
+            <div id="barWs" class="chart"></div>
+          </div>
+        </div>
+
+        <div class="card glass">
+          <div class="card-h"><h3>O que é cada tema</h3><span class="chip">clique para detalhar</span></div>
+          <div id="temaLegOv"></div>
+        </div>
+
+        <div class="grid g-3">
+          <div class="card glass span-2">
+            <div class="card-h"><h3>Mais acessados</h3><span class="muted small" id="periodoUso"></span></div>
+            <div id="barTop" class="chart"></div>
+          </div>
+          <div class="card glass span-1">
+            <div class="card-h"><h3>Insights automáticos</h3></div>
+            <ul class="insights" id="insights"></ul>
+          </div>
+        </div>
+      </section>
+
+      <!-- ---------- GRAFO ---------- -->
+      <section class="view" id="view-graph">
+        <div class="toolbar glass">
+          <div class="tb-group">
+            <label>Colorir por</label>
+            <div class="seg" id="colorBy">
+              <button data-v="tema" class="on">Tema</button><button data-v="cluster">Cluster</button><button data-v="ws">Workspace</button><button data-v="rec">Recomendação</button>
+            </div>
+          </div>
+          <div class="tb-group">
+            <label>Layout</label>
+            <div class="seg" id="layoutBy">
+              <button data-v="tema" class="on">Agrupar por tema</button><button data-v="livre">Livre</button>
+            </div>
+          </div>
+          <div class="tb-group">
+            <label>Similaridade mínima <b id="simVal">0.25</b></label>
+            <input type="range" id="simMin" min="0.15" max="0.95" step="0.05" value="0.25">
+          </div>
+          <div class="tb-group">
+            <label>Workspace</label>
+            <select id="wsFilter"><option value="">Todos</option></select>
+          </div>
+          <label class="check"><input type="checkbox" id="hideNP"> Ocultar teste/homolog.</label>
+          <label class="check"><input type="checkbox" id="hideIso"> Ocultar isolados</label>
+        </div>
+        <div class="graph-wrap glass">
+          <svg id="graphSvg"></svg>
+          <div class="graph-legend" id="graphLegend"></div>
+          <div class="graph-hint">Arraste nós · role para zoom · clique para detalhes · passe o mouse para destacar vizinhos</div>
+          <div class="graph-stats" id="graphStats"></div>
+        </div>
+        <div class="card glass">
+          <div class="card-h"><h3>Como ler as conexões</h3></div>
+          <div class="edge-legend">
+            <div><span class="eline solid"></span><b>Mesmo modelo</b> : relatórios apontando para o mesmo dataset</div>
+            <div><span class="eline dup"></span><b>Duplicado</b> : mesmo nome-base + modelo parecido (ex.: cópias entre workspaces)</div>
+            <div><span class="eline thick"></span><b>Alta sobreposição</b> : similaridade ≥ 0,5</div>
+            <div><span class="eline thin"></span><b>Relacionado</b> : compartilham tabelas, medidas ou colunas</div>
+          </div>
+          <p class="muted small">Similaridade = 50% tabelas + 25% medidas + 25% colunas (Jaccard ponderado por IDF, tabelas genéricas como calendário e “_medidas” não contam).</p>
+        </div>
+      </section>
+
+      <!-- ---------- TEMAS & CLUSTERS ---------- -->
+      <section class="view" id="view-themes">
+        <div class="section-intro">
+          <p class="muted">Cada cartão é um <b>tema-alvo</b> para a nova arquitetura de BIs: as tabelas-fato e dimensões mais usadas pelos relatórios do tema são as candidatas a <b>tabelas-chave</b> do modelo semântico único. Clique para ver o mapa do tema.</p>
+        </div>
+        <div class="theme-cards" id="themeCards"></div>
+        <div class="card glass">
+          <div class="card-h"><h3>Clusters detectados automaticamente</h3><span class="muted small">Louvain sobre a similaridade entre relatórios — grupos que naturalmente compartilham a mesma base</span></div>
+          <div class="clusters" id="clusterList"></div>
+        </div>
+      </section>
+
+      <!-- ---------- TABELAS ---------- -->
+      <section class="view" id="view-tables">
+        <div class="toolbar glass">
+          <div class="tb-group">
+            <label>Conexões</label>
+            <div class="seg" id="tabEdge">
+              <button data-v="co_uso" class="on">Usadas juntas</button><button data-v="colunas">Colunas parecidas</button>
+            </div>
+          </div>
+          <div class="tb-group">
+            <label>Usada em ≥ <b id="tabMinVal">2</b> relatórios</label>
+            <input type="range" id="tabMin" min="1" max="8" step="1" value="2">
+          </div>
+          <div class="tb-group">
+            <label>Tema</label>
+            <select id="tabTema"><option value="">Todos</option></select>
+          </div>
+        </div>
+        <div class="grid g-3">
+          <div class="graph-wrap glass span-2 tall">
+            <svg id="tabSvg"></svg>
+            <div class="graph-legend" id="tabLegend"></div>
+            <div class="graph-hint">“Colunas parecidas” revela tabelas duplicadas/derivadas com nomes diferentes</div>
+          </div>
+          <div class="card glass span-1">
+            <div class="card-h"><h3>Colunas mais compartilhadas</h3></div>
+            <p class="muted small">Candidatas a <b>dimensões conformadas</b> (chaves de junção entre temas).</p>
+            <div id="colTop" class="col-top"></div>
+          </div>
+        </div>
+        <div class="card glass">
+          <div class="card-h"><h3>Inventário de tabelas</h3><input class="mini-search" id="tabSearch" placeholder="Filtrar tabela…"></div>
+          <div class="table-wrap"><table class="dt" id="tabTable"></table></div>
+        </div>
+      </section>
+
+      <!-- ---------- SOBREPOSIÇÕES ---------- -->
+      <section class="view" id="view-overlap">
+        <div class="kpis small" id="ovKpis"></div>
+        <div class="grid g-3">
+          <div class="card glass span-1">
+            <div class="card-h"><h3>Matriz de similaridade</h3></div>
+            <p class="muted small">Relatórios ordenados por cluster. Cada célula é um par; quanto mais clara, mais parecidos.</p>
+            <div id="matrix" class="matrix"></div>
+          </div>
+          <div class="card glass span-2">
+            <div class="card-h"><h3>Pares sobrepostos</h3>
+              <div class="seg small" id="ovType">
+                <button data-v="" class="on">Todos</button><button data-v="mesmo_modelo">Mesmo modelo</button><button data-v="duplicado">Duplicado</button><button data-v="alta_sobreposicao">Alta</button><button data-v="sobreposicao">Média</button>
+              </div>
+            </div>
+            <div class="table-wrap tall"><table class="dt" id="ovTable"></table></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ---------- RACIONALIZAÇÃO ---------- -->
+      <section class="view" id="view-health">
+        <div class="rec-cards" id="recCards"></div>
+        <div class="grid g-3">
+          <div class="card glass span-2">
+            <div class="card-h"><h3>Uso × atualização</h3><div class="legend" id="legScatter"></div></div>
+            <div id="scatter" class="chart tall"></div>
+          </div>
+          <div class="card glass span-1">
+            <div class="card-h"><h3>Como a nota é calculada</h3></div>
+            <div class="sx-start"><div class="sx-100">100</div>
+              <div><b>Todo relatório começa com 100 pontos</b><br><span class="muted small">e perde pontos a cada problema encontrado.</span></div></div>
+
+            <div class="sx-groups" id="sxGroups"></div>
+
+            <div class="sx-ex"><b>Exemplo:</b> ninguém abriu (−40) e os dados estão parados há 200 dias (−30) → sobram <b>30 pontos</b> → <span class="rb Arquivar">Arquivar</span></div>
+
+            <div class="kicker" style="margin-bottom:2px">O que a nota recomenda</div>
+            <div class="sx-gauge" aria-hidden="true">
+              <span style="width:40%;background:var(--r-arquivar)"></span><span style="width:25%;background:var(--r-revisar)"></span><span style="flex:1;background:var(--r-manter)"></span>
+            </div>
+            <div class="sx-ticks"><span style="left:0">0</span><span style="left:40%">40</span><span style="left:65%">65</span><span style="left:100%">100</span></div>
+            <div class="sx-recs">
+              <div><span class="rb Arquivar">Arquivar</span><span>nota abaixo de 40 (ou teste quase sem uso): mover para o BI Histórico</span></div>
+              <div><span class="rb Revisar">Revisar</span><span>nota entre 40 e 65: conversar com o dono</span></div>
+              <div><span class="rb Manter">Manter</span><span>nota acima de 65: está saudável</span></div>
+              <div><span class="rb Consolidar">Consolidar</span><span>existe outro relatório quase igual: juntar no modelo do tema (vale para qualquer nota acima de 40)</span></div>
+            </div>
+            <p class="muted small" style="margin:0">O uso vem do <i>Usage Metrics</i> de cada workspace. Onde ele não existe ou está parado, a nota pode estar mais baixa do que deveria.</p>
+          </div>
+        </div>
+        <div class="card glass">
+          <div class="card-h"><h3>Plano de ação</h3>
+            <div class="row gap">
+              <div class="seg small" id="recFilter">
+                <button data-v="" class="on">Todas</button><button data-v="Arquivar">Arquivar</button><button data-v="Consolidar">Consolidar</button><button data-v="Revisar">Revisar</button><button data-v="Manter">Manter</button>
+              </div>
+              <button class="btn" id="exportHealth"><i data-ico="download"></i> CSV</button>
+            </div>
+          </div>
+          <div class="table-wrap tall"><table class="dt" id="healthTable"></table></div>
+        </div>
+      </section>
+
+      <!-- ---------- CATÁLOGO ---------- -->
+      <section class="view" id="view-catalog">
+        <div class="toolbar glass">
+          <input class="mini-search wide" id="catSearch" placeholder="Filtrar por nome, workspace, owner, tabela…">
+          <div class="tb-group">
+            <label>Tema</label><select id="catTema"><option value="">Todos</option></select>
+          </div>
+          <div class="tb-group">
+            <label>Workspace</label><select id="catWs"><option value="">Todos</option></select>
+          </div>
+          <div class="tb-group">
+            <label>Situação</label><select id="catSit"><option value="">Todas</option></select>
+          </div>
+          <div class="tb-group">
+            <label>Ano</label><select id="catAno"><option value="">Todos</option></select>
+          </div>
+          <div class="tb-group">
+            <label>Owner</label><select id="catOwner"><option value="">Todos</option></select>
+          </div>
+          <label class="check"><input type="checkbox" id="catHist"> Incluir BI Histórico</label>
+          <label class="check"><input type="checkbox" id="catSys"> Incluir Usage Metrics</label>
+          <button class="btn" id="exportCat"><i data-ico="download"></i> CSV</button>
+        </div>
+        <div class="card glass">
+          <div class="table-wrap xtall"><table class="dt" id="catTable"></table></div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- ================= MODAL ================= -->
+  <div class="modal-backdrop" id="modal" aria-hidden="true">
+    <div class="modal glass" role="dialog" aria-modal="true">
+      <button class="modal-x" id="modalClose" aria-label="Fechar">×</button>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+  <div class="tooltip" id="tooltip"></div>
+
+  <script src="assets/vendor/d3.min.js"></script>
+  <script src="data/catalogo_data.js"></script>
+  <script src="assets/js/shell.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

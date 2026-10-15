@@ -1,0 +1,1276 @@
+﻿workspace_id,workspace,relatorio_id,usuario,data_ini,data_fim,janela_fim,views,granularidade
+13b39d0d-767c-4eb1-9c07-dc42962d2396,BI - Credito UAT,37ea4113-1921-4af9-b910-d0629c72556f,daniel.santana@farmtech.com.br,2026-10-14,2026-10-14,,6,dia
+13b39d0d-767c-4eb1-9c07-dc42962d2396,BI - Credito UAT,6a7cf2ee-95d9-41b4-ac6e-b9a564b12839,daniel.santana@farmtech.com.br,2026-10-14,2026-10-14,,2,dia
+13b39d0d-767c-4eb1-9c07-dc42962d2396,BI - Credito UAT,98ded962-903a-494f-858c-3c8a869aed13,daniel.santana@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+49b0526d-607a-4d73-ae1d-38132788f084,BI Cobrança,6a73a27d-5a79-4ec3-a05c-c123b8349fc8,andrea.kolling@farmtech.com.br,2026-03-09,2026-03-31,2026-04-02,1,janela
+49b0526d-607a-4d73-ae1d-38132788f084,BI Cobrança,6a73a27d-5a79-4ec3-a05c-c123b8349fc8,beatriz.goncalves@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+49b0526d-607a-4d73-ae1d-38132788f084,BI Cobrança,6a73a27d-5a79-4ec3-a05c-c123b8349fc8,fernanda.hamatsu@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+49b0526d-607a-4d73-ae1d-38132788f084,BI Cobrança,cfec3c02-21a4-49fc-8ea3-6664693b31e1,andrea.kolling@farmtech.com.br,2026-03-09,2026-03-31,2026-04-02,1,janela
+49b0526d-607a-4d73-ae1d-38132788f084,BI Cobrança,cfec3c02-21a4-49fc-8ea3-6664693b31e1,beatriz.goncalves@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+49b0526d-607a-4d73-ae1d-38132788f084,BI Cobrança,cfec3c02-21a4-49fc-8ea3-6664693b31e1,beatriz.torres@farmtech.com.br,2026-03-09,2026-04-02,2026-04-02,13,janela
+49b0526d-607a-4d73-ae1d-38132788f084,BI Cobrança,cfec3c02-21a4-49fc-8ea3-6664693b31e1,beatriz.torres@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+49b0526d-607a-4d73-ae1d-38132788f084,BI Cobrança,cfec3c02-21a4-49fc-8ea3-6664693b31e1,bruna.umino@farmtech.com.br,2026-03-09,2026-03-24,2026-04-02,1,janela
+49b0526d-607a-4d73-ae1d-38132788f084,BI Cobrança,cfec3c02-21a4-49fc-8ea3-6664693b31e1,daniel.peres@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+49b0526d-607a-4d73-ae1d-38132788f084,BI Cobrança,cfec3c02-21a4-49fc-8ea3-6664693b31e1,eric.lopes@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+49b0526d-607a-4d73-ae1d-38132788f084,BI Cobrança,cfec3c02-21a4-49fc-8ea3-6664693b31e1,maria.olino@farmtech.com.br,2026-03-09,2026-03-19,2026-04-02,3,janela
+49b0526d-607a-4d73-ae1d-38132788f084,BI Cobrança,cfec3c02-21a4-49fc-8ea3-6664693b31e1,miguel.augusto@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+49b0526d-607a-4d73-ae1d-38132788f084,BI Cobrança,cfec3c02-21a4-49fc-8ea3-6664693b31e1,miguel.augusto@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+49b0526d-607a-4d73-ae1d-38132788f084,BI Cobrança,cfec3c02-21a4-49fc-8ea3-6664693b31e1,miguel.augusto@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+49b0526d-607a-4d73-ae1d-38132788f084,BI Cobrança,cfec3c02-21a4-49fc-8ea3-6664693b31e1,rodrigo.ferreira@farmtech.com.br,2026-03-09,2026-03-24,2026-04-02,1,janela
+49b0526d-607a-4d73-ae1d-38132788f084,BI Cobrança,cfec3c02-21a4-49fc-8ea3-6664693b31e1,thiago.lima@farmtech.com.br,2026-03-09,2026-03-25,2026-04-02,1,janela
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,5ffbd674-7b40-4e7b-9dfd-a983d370cd23,joao.victor@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,5ffbd674-7b40-4e7b-9dfd-a983d370cd23,maria.olino@farmtech.com.br,2026-09-24,2026-09-24,,2,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,6e272cc6-5ea6-4079-9cab-493916d3854e,daniel.romano@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,6e272cc6-5ea6-4079-9cab-493916d3854e,daniel.romano@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,6e272cc6-5ea6-4079-9cab-493916d3854e,daniel.santana@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,6e272cc6-5ea6-4079-9cab-493916d3854e,joao.victor@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,6e272cc6-5ea6-4079-9cab-493916d3854e,rodrigo.ferreira@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,6e272cc6-5ea6-4079-9cab-493916d3854e,rodrigo.ferreira@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,6e272cc6-5ea6-4079-9cab-493916d3854e,rodrigo.ferreira@farmtech.com.br,2026-09-30,2026-09-30,,2,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,6e272cc6-5ea6-4079-9cab-493916d3854e,rodrigo.ferreira@farmtech.com.br,2026-10-02,2026-10-02,,2,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,6e272cc6-5ea6-4079-9cab-493916d3854e,talitta.fonseca@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,6e272cc6-5ea6-4079-9cab-493916d3854e,talitta.fonseca@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,6e272cc6-5ea6-4079-9cab-493916d3854e,talitta.fonseca@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,6e272cc6-5ea6-4079-9cab-493916d3854e,talitta.fonseca@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,89aff813-bfb7-43ba-9bf6-92d41f38da70,daniel.santana@farmtech.com.br,2026-10-14,2026-10-14,,6,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,9a8bb82f-1288-48e2-a9c9-7359af815413,eric.lopes@farmtech.com.br,2026-09-25,2026-09-25,,2,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,9a8bb82f-1288-48e2-a9c9-7359af815413,marcos.barbosa@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,a19f39bc-ecfe-43aa-92f1-367cd25af3cc,eric.lopes@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,a19f39bc-ecfe-43aa-92f1-367cd25af3cc,joao.victor@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,a19f39bc-ecfe-43aa-92f1-367cd25af3cc,joao.victor@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,a19f39bc-ecfe-43aa-92f1-367cd25af3cc,marcos.barbosa@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,c13052d9-408e-4087-93dd-d45848a9724f,eric.lopes@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,c13052d9-408e-4087-93dd-d45848a9724f,joao.victor@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,c13052d9-408e-4087-93dd-d45848a9724f,joao.victor@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,c13052d9-408e-4087-93dd-d45848a9724f,joao.victor@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,c13052d9-408e-4087-93dd-d45848a9724f,joao.victor@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,cae1d6f8-aadc-4de0-9444-950b3125256c,daniel.santana@farmtech.com.br,2026-10-14,2026-10-14,,3,dia
+9b89101d-2ca8-40b7-848d-a5a7e857e5a8,BI Comercial,de377d3c-f84c-445d-952e-4ac7a43d2faa,marcos.barbosa@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,07b4c9c4-42ea-4ad5-879e-3c129e838cc5,beatriz.goncalves@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,07b4c9c4-42ea-4ad5-879e-3c129e838cc5,beatriz.goncalves@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,07b4c9c4-42ea-4ad5-879e-3c129e838cc5,daniel.santana@farmtech.com.br,2026-10-14,2026-10-14,,2,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,07b4c9c4-42ea-4ad5-879e-3c129e838cc5,marcos.barbosa@farmtech.com.br,2026-01-19,2026-02-05,2026-02-17,1,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,17807980-9f93-4b85-8eb1-f9c31fba4770,marcos.barbosa@farmtech.com.br,2026-01-19,2026-01-19,2026-02-17,1,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,17807980-9f93-4b85-8eb1-f9c31fba4770,maria.olino@farmtech.com.br,2026-01-19,2026-01-20,2026-02-17,1,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,347310ed-0bf5-4630-a2e9-5fae7d2f1f51,fernanda.hamatsu@farmtech.com.br,2026-10-06,2026-10-06,,2,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,347310ed-0bf5-4630-a2e9-5fae7d2f1f51,fernanda.hamatsu@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,347310ed-0bf5-4630-a2e9-5fae7d2f1f51,fernanda.hamatsu@farmtech.com.br,2026-10-08,2026-10-08,,3,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,347310ed-0bf5-4630-a2e9-5fae7d2f1f51,marcos.barbosa@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,antonio.raposo@farmtech.com.br,2026-01-19,2026-02-13,2026-02-17,153,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,antonio.raposo@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,antonio.raposo@farmtech.com.br,2026-09-15,2026-09-15,,2,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,antonio.raposo@farmtech.com.br,2026-09-17,2026-09-17,,2,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,antonio.raposo@farmtech.com.br,2026-09-18,2026-09-18,,3,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,antonio.raposo@farmtech.com.br,2026-10-05,2026-10-05,,2,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,antonio.raposo@farmtech.com.br,2026-10-06,2026-10-06,,4,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,antonio.raposo@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,antonio.raposo@farmtech.com.br,2026-10-14,2026-10-14,,2,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,beatriz.goncalves@farmtech.com.br,2026-09-14,2026-09-14,,3,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,beatriz.goncalves@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,beatriz.goncalves@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,beatriz.goncalves@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,beatriz.goncalves@farmtech.com.br,2026-09-22,2026-09-22,,2,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,beatriz.goncalves@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,beatriz.goncalves@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,beatriz.goncalves@farmtech.com.br,2026-09-28,2026-09-28,,7,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,beatriz.goncalves@farmtech.com.br,2026-10-01,2026-10-01,,4,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,beatriz.goncalves@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,beatriz.goncalves@farmtech.com.br,2026-10-06,2026-10-06,,2,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,beatriz.goncalves@farmtech.com.br,2026-10-07,2026-10-07,,2,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,beatriz.goncalves@farmtech.com.br,2026-10-08,2026-10-08,,4,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,beatriz.goncalves@farmtech.com.br,2026-10-09,2026-10-09,,3,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,beatriz.goncalves@farmtech.com.br,2026-10-13,2026-10-13,,2,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,beatriz.goncalves@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,debora.santos@farmtech.com.br,2026-01-19,2026-02-03,2026-02-17,4,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,eric.lopes@farmtech.com.br,2026-01-19,2026-02-06,2026-02-17,3,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,joao.parreira@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,josue.nascimento@farmtech.com.br,2026-01-19,2026-02-05,2026-02-17,3,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,nelson.Heleno@farmtech.com.br,2026-01-19,2026-01-21,2026-02-17,1,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,nelson.Heleno@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,35c374d5-2927-4ad7-a712-8deed444774f,nelson.Heleno@farmtech.com.br,2026-09-23,2026-09-23,,28,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,403f0a34-b319-4cd4-aa29-d497f7353448,antonio.raposo@farmtech.com.br,2026-01-19,2026-01-26,2026-02-17,1,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,403f0a34-b319-4cd4-aa29-d497f7353448,marcos.barbosa@farmtech.com.br,2026-01-19,2026-02-02,2026-02-17,1,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,763e692f-2016-4030-863c-a2bbb4f86584,marcos.barbosa@farmtech.com.br,2026-01-19,2026-01-19,2026-02-17,1,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,763e692f-2016-4030-863c-a2bbb4f86584,maria.olino@farmtech.com.br,2026-01-19,2026-01-20,2026-02-17,2,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9c9a87f9-3808-4443-92a6-79d81f98e8f4,antonio.raposo@farmtech.com.br,2026-01-19,2026-02-03,2026-02-17,1,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9c9a87f9-3808-4443-92a6-79d81f98e8f4,antonio.raposo@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9c9a87f9-3808-4443-92a6-79d81f98e8f4,beatriz.goncalves@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9c9a87f9-3808-4443-92a6-79d81f98e8f4,beatriz.goncalves@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9c9a87f9-3808-4443-92a6-79d81f98e8f4,nelson.Heleno@farmtech.com.br,2026-01-19,2026-01-20,2026-02-17,1,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9c9a87f9-3808-4443-92a6-79d81f98e8f4,nelson.Heleno@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,antonio.raposo@farmtech.com.br,2026-01-19,2026-02-17,2026-02-17,198,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,antonio.raposo@farmtech.com.br,2026-09-14,2026-09-14,,6,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,antonio.raposo@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,antonio.raposo@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,antonio.raposo@farmtech.com.br,2026-09-17,2026-09-17,,27,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,antonio.raposo@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,antonio.raposo@farmtech.com.br,2026-10-05,2026-10-05,,54,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,antonio.raposo@farmtech.com.br,2026-10-06,2026-10-06,,27,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,antonio.raposo@farmtech.com.br,2026-10-07,2026-10-07,,27,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,antonio.raposo@farmtech.com.br,2026-10-14,2026-10-14,,2,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,beatriz.goncalves@farmtech.com.br,2026-09-14,2026-09-14,,5,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,beatriz.goncalves@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,beatriz.goncalves@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,beatriz.goncalves@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,beatriz.goncalves@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,beatriz.goncalves@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,beatriz.goncalves@farmtech.com.br,2026-09-22,2026-09-22,,3,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,beatriz.goncalves@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,beatriz.goncalves@farmtech.com.br,2026-09-28,2026-09-28,,6,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,beatriz.goncalves@farmtech.com.br,2026-10-01,2026-10-01,,5,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,beatriz.goncalves@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,beatriz.goncalves@farmtech.com.br,2026-10-06,2026-10-06,,4,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,beatriz.goncalves@farmtech.com.br,2026-10-07,2026-10-07,,5,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,beatriz.goncalves@farmtech.com.br,2026-10-08,2026-10-08,,6,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,beatriz.goncalves@farmtech.com.br,2026-10-13,2026-10-13,,2,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,bruna.umino@farmtech.com.br,2026-01-19,2026-01-28,2026-02-17,1,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,debora.santos@farmtech.com.br,2026-01-19,2026-02-02,2026-02-17,1,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,fernanda.hamatsu@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,fernanda.hamatsu@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,joao.parreira@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,joao.parreira@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,joao.parreira@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,josue.nascimento@farmtech.com.br,2026-01-19,2026-01-20,2026-02-17,1,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,josue.nascimento@farmtech.com.br,2026-09-28,2026-09-28,,3,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,josue.nascimento@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,josue.nascimento@farmtech.com.br,2026-10-02,2026-10-02,,2,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,nelson.Heleno@farmtech.com.br,2026-01-19,2026-02-11,2026-02-17,5,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,nelson.Heleno@farmtech.com.br,2026-09-25,2026-09-25,,3,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,nelson.Heleno@farmtech.com.br,2026-09-29,2026-09-29,,4,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,nelson.Heleno@farmtech.com.br,2026-10-01,2026-10-01,,25,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,nelson.Heleno@farmtech.com.br,2026-10-03,2026-10-03,,1,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,nelson.Heleno@farmtech.com.br,2026-10-05,2026-10-05,,2,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,9ef7a65d-1cfc-4ac3-9d5f-f0f31ced6e9a,rodrigo.deus@farmtech.com.br,2026-01-19,2026-02-02,2026-02-17,1,janela
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,cda3de9b-97c8-49ba-8ce7-774d15349de8,daniel.santana@farmtech.com.br,2026-10-13,2026-10-13,,9,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,cda3de9b-97c8-49ba-8ce7-774d15349de8,daniel.santana@farmtech.com.br,2026-10-14,2026-10-14,,2,dia
+84edbe26-6e67-4e09-881f-a8a1188afa05,BI Compliance,cda3de9b-97c8-49ba-8ce7-774d15349de8,marcos.barbosa@farmtech.com.br,2026-01-19,2026-01-19,2026-02-17,8,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,072058c2-fc66-4237-be4d-78a6bdce270e,andre.garcia@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,072058c2-fc66-4237-be4d-78a6bdce270e,beatriz.guimaraes@farmtech.com.br,2026-03-08,2026-03-12,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,072058c2-fc66-4237-be4d-78a6bdce270e,daniel.santana@farmtech.com.br,2026-10-08,2026-10-08,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,072058c2-fc66-4237-be4d-78a6bdce270e,gabriela.silva@farmtech.com.br,2026-03-08,2026-04-01,2026-04-02,32,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,072058c2-fc66-4237-be4d-78a6bdce270e,heitor.cesar@farmtech.com.br,2026-03-08,2026-04-02,2026-04-02,2,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,072058c2-fc66-4237-be4d-78a6bdce270e,heitor.cesar@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,072058c2-fc66-4237-be4d-78a6bdce270e,maria.olino@farmtech.com.br,2026-03-08,2026-03-17,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,072058c2-fc66-4237-be4d-78a6bdce270e,maria.olino@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,072058c2-fc66-4237-be4d-78a6bdce270e,maxymiliana.soares@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,072058c2-fc66-4237-be4d-78a6bdce270e,maxymiliana.soares@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,072058c2-fc66-4237-be4d-78a6bdce270e,miguel.augusto@farmtech.com.br,2026-03-08,2026-03-25,2026-04-02,2,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,072058c2-fc66-4237-be4d-78a6bdce270e,pedro.henrique@farmtech.com.br,2026-03-08,2026-03-24,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,andre.garcia@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,andre.garcia@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,beatriz.guimaraes@farmtech.com.br,2026-03-08,2026-03-30,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,beatriz.guimaraes@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,beatriz.guimaraes@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,bruna.umino@farmtech.com.br,2026-03-08,2026-03-30,2026-04-02,3,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,daniel.santana@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,fernanda.hamatsu@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,gabriela.silva@farmtech.com.br,2026-03-08,2026-03-30,2026-04-02,9,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,guilherme.batista@farmtech.com.br,2026-03-08,2026-03-20,2026-04-02,5,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,guilherme.batista@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,heitor.cesar@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,heitor.cesar@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,heitor.cesar@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,heitor.cesar@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,heitor.cesar@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,inara.monteiro@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,joao.victor@farmtech.com.br,2026-03-08,2026-03-13,2026-04-02,5,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,joao.victor@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,joao.victor@farmtech.com.br,2026-09-29,2026-09-29,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,joao.victor@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,josue.nascimento@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,liz.martins@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,marcos.barbosa@farmtech.com.br,2026-03-08,2026-03-09,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,maria.olino@farmtech.com.br,2026-03-08,2026-03-17,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,maria.olino@farmtech.com.br,2026-09-16,2026-09-16,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,maria.olino@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,maxymiliana.soares@farmtech.com.br,2026-09-28,2026-09-28,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,miguel.augusto@farmtech.com.br,2026-03-08,2026-03-25,2026-04-02,2,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,pedro.henrique@farmtech.com.br,2026-03-08,2026-03-26,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,rafaella.silva@farmtech.com.br,2026-03-08,2026-03-26,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,rodrigo.deus@farmtech.com.br,2026-03-08,2026-03-24,2026-04-02,2,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,14ebf594-3a6e-4a1b-9735-bb46ccaeb184,rodrigo.deus@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,20e5265e-b3b3-4f5b-b59d-befb4723be20,daniel.santana@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,20e5265e-b3b3-4f5b-b59d-befb4723be20,rafaella.silva@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,andre.garcia@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,andre.garcia@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,andre.garcia@farmtech.com.br,2026-10-08,2026-10-08,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,andre.garcia@farmtech.com.br,2026-10-14,2026-10-14,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.goncalves@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.goncalves@farmtech.com.br,2026-09-16,2026-09-16,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.goncalves@farmtech.com.br,2026-09-23,2026-09-23,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.goncalves@farmtech.com.br,2026-09-28,2026-09-28,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.goncalves@farmtech.com.br,2026-10-01,2026-10-01,,8,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.goncalves@farmtech.com.br,2026-10-05,2026-10-05,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.goncalves@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.goncalves@farmtech.com.br,2026-10-07,2026-10-07,,6,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.goncalves@farmtech.com.br,2026-10-08,2026-10-08,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.goncalves@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.guimaraes@farmtech.com.br,2026-03-08,2026-03-30,2026-04-02,11,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.guimaraes@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.guimaraes@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.guimaraes@farmtech.com.br,2026-09-21,2026-09-21,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.guimaraes@farmtech.com.br,2026-09-22,2026-09-22,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.guimaraes@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.guimaraes@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.guimaraes@farmtech.com.br,2026-09-25,2026-09-25,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.guimaraes@farmtech.com.br,2026-09-28,2026-09-28,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.guimaraes@farmtech.com.br,2026-09-29,2026-09-29,,4,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.guimaraes@farmtech.com.br,2026-09-30,2026-09-30,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.guimaraes@farmtech.com.br,2026-10-01,2026-10-01,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.guimaraes@farmtech.com.br,2026-10-05,2026-10-05,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.guimaraes@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.guimaraes@farmtech.com.br,2026-10-07,2026-10-07,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,beatriz.guimaraes@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,bruna.umino@farmtech.com.br,2026-03-08,2026-04-02,2026-04-02,4,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,caio.rodrigues@farmtech.com.br,2026-09-30,2026-09-30,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,daniel.santana@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,fernanda.hamatsu@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,fernanda.hamatsu@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,gabriela.silva@farmtech.com.br,2026-03-08,2026-04-01,2026-04-02,17,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,guilherme.batista@farmtech.com.br,2026-03-08,2026-03-09,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,heitor.cesar@farmtech.com.br,2026-03-08,2026-04-02,2026-04-02,22,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,heitor.cesar@farmtech.com.br,2026-09-14,2026-09-14,,4,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,heitor.cesar@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,heitor.cesar@farmtech.com.br,2026-09-16,2026-09-16,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,heitor.cesar@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,heitor.cesar@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,heitor.cesar@farmtech.com.br,2026-09-22,2026-09-22,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,heitor.cesar@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,heitor.cesar@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,heitor.cesar@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,heitor.cesar@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,heitor.cesar@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,heitor.cesar@farmtech.com.br,2026-10-01,2026-10-01,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,heitor.cesar@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,heitor.cesar@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,heitor.cesar@farmtech.com.br,2026-10-07,2026-10-07,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,heitor.cesar@farmtech.com.br,2026-10-08,2026-10-08,,4,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,heitor.cesar@farmtech.com.br,2026-10-13,2026-10-13,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,heitor.cesar@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-03-08,2026-04-02,2026-04-02,38,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-09-14,2026-09-14,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-09-15,2026-09-15,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-09-16,2026-09-16,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-09-17,2026-09-17,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-09-22,2026-09-22,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-09-24,2026-09-24,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-09-25,2026-09-25,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-09-28,2026-09-28,,5,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-09-30,2026-09-30,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-10-01,2026-10-01,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-10-05,2026-10-05,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-10-06,2026-10-06,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-10-07,2026-10-07,,6,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-10-08,2026-10-08,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-10-09,2026-10-09,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-10-13,2026-10-13,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,inara.monteiro@farmtech.com.br,2026-10-14,2026-10-14,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,joao.victor@farmtech.com.br,2026-03-08,2026-03-13,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,joao.victor@farmtech.com.br,2026-09-16,2026-09-16,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,joao.victor@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,josue.nascimento@farmtech.com.br,2026-03-08,2026-04-02,2026-04-02,12,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,josue.nascimento@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,josue.nascimento@farmtech.com.br,2026-09-17,2026-09-17,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,josue.nascimento@farmtech.com.br,2026-09-24,2026-09-24,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,josue.nascimento@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,josue.nascimento@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,josue.nascimento@farmtech.com.br,2026-10-01,2026-10-01,,6,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,josue.nascimento@farmtech.com.br,2026-10-02,2026-10-02,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,josue.nascimento@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,josue.nascimento@farmtech.com.br,2026-10-08,2026-10-08,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,josue.nascimento@farmtech.com.br,2026-10-09,2026-10-09,,6,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,josue.nascimento@farmtech.com.br,2026-10-14,2026-10-14,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,marcos.barbosa@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,marcos.barbosa@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maria.olino@farmtech.com.br,2026-03-08,2026-03-13,2026-04-02,3,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maria.olino@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maxymiliana.soares@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maxymiliana.soares@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maxymiliana.soares@farmtech.com.br,2026-09-17,2026-09-17,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maxymiliana.soares@farmtech.com.br,2026-09-18,2026-09-18,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maxymiliana.soares@farmtech.com.br,2026-09-21,2026-09-21,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maxymiliana.soares@farmtech.com.br,2026-09-22,2026-09-22,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maxymiliana.soares@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maxymiliana.soares@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maxymiliana.soares@farmtech.com.br,2026-09-25,2026-09-25,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maxymiliana.soares@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maxymiliana.soares@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maxymiliana.soares@farmtech.com.br,2026-09-30,2026-09-30,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maxymiliana.soares@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maxymiliana.soares@farmtech.com.br,2026-10-05,2026-10-05,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maxymiliana.soares@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maxymiliana.soares@farmtech.com.br,2026-10-07,2026-10-07,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maxymiliana.soares@farmtech.com.br,2026-10-09,2026-10-09,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maxymiliana.soares@farmtech.com.br,2026-10-13,2026-10-13,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,maxymiliana.soares@farmtech.com.br,2026-10-14,2026-10-14,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,miguel.augusto@farmtech.com.br,2026-03-08,2026-04-02,2026-04-02,34,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,miguel.augusto@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,miguel.augusto@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,miguel.augusto@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,miguel.augusto@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,pedro.henrique@farmtech.com.br,2026-03-08,2026-03-31,2026-04-02,9,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,priscila.rangel@farmtech.com.br,2026-03-08,2026-03-16,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,rafaella.silva@farmtech.com.br,2026-03-08,2026-04-02,2026-04-02,13,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,rafaella.silva@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,rafaella.silva@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,rafaella.silva@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,rafaella.silva@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,rafaella.silva@farmtech.com.br,2026-09-23,2026-09-23,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,rafaella.silva@farmtech.com.br,2026-09-24,2026-09-24,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,rafaella.silva@farmtech.com.br,2026-09-25,2026-09-25,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,rafaella.silva@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,rafaella.silva@farmtech.com.br,2026-09-29,2026-09-29,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,rafaella.silva@farmtech.com.br,2026-09-30,2026-09-30,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,rafaella.silva@farmtech.com.br,2026-10-01,2026-10-01,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,rafaella.silva@farmtech.com.br,2026-10-02,2026-10-02,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,rafaella.silva@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,rafaella.silva@farmtech.com.br,2026-10-07,2026-10-07,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,rafaella.silva@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,2d2ac5ea-b76d-4c64-b228-f3cc753d8ff5,vinicius.coelho@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,3f908c72-f15e-4ada-9f47-cf30e1f1cfda,daniel.santana@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,3f908c72-f15e-4ada-9f47-cf30e1f1cfda,daniel.santana@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,3f908c72-f15e-4ada-9f47-cf30e1f1cfda,daniel.santana@farmtech.com.br,2026-10-08,2026-10-08,,4,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,andre.garcia@farmtech.com.br,2026-10-09,2026-10-09,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,andrea.kolling@farmtech.com.br,2026-03-08,2026-03-30,2026-04-02,2,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,andrea.kolling@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,beatriz.guimaraes@farmtech.com.br,2026-03-08,2026-03-10,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,bruna.umino@farmtech.com.br,2026-03-08,2026-03-16,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,daniel.santana@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,gabriela.silva@farmtech.com.br,2026-03-08,2026-03-27,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,gustavo.resende@farmtech.com.br,2026-03-08,2026-03-16,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,inara.monteiro@farmtech.com.br,2026-03-08,2026-03-30,2026-04-02,7,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,inara.monteiro@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,inara.monteiro@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,inara.monteiro@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,inara.monteiro@farmtech.com.br,2026-09-17,2026-09-17,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,inara.monteiro@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,inara.monteiro@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,inara.monteiro@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,inara.monteiro@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,inara.monteiro@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,inara.monteiro@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,inara.monteiro@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,inara.monteiro@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,inara.monteiro@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,inara.monteiro@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,inara.monteiro@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,inara.monteiro@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,inara.monteiro@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,josue.nascimento@farmtech.com.br,2026-09-28,2026-09-28,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,maxymiliana.soares@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,maxymiliana.soares@farmtech.com.br,2026-09-24,2026-09-24,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,maxymiliana.soares@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,maxymiliana.soares@farmtech.com.br,2026-10-06,2026-10-06,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,maxymiliana.soares@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,maxymiliana.soares@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,maxymiliana.soares@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,miguel.augusto@farmtech.com.br,2026-03-08,2026-04-02,2026-04-02,31,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,miguel.augusto@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,miguel.augusto@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,pedro.henrique@farmtech.com.br,2026-03-08,2026-03-31,2026-04-02,6,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,rafaella.silva@farmtech.com.br,2026-03-08,2026-03-27,2026-04-02,2,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,rafaella.silva@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,rafaella.silva@farmtech.com.br,2026-09-17,2026-09-17,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,rafaella.silva@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,rafaella.silva@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,rafaella.silva@farmtech.com.br,2026-09-24,2026-09-24,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,rafaella.silva@farmtech.com.br,2026-09-28,2026-09-28,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,rafaella.silva@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,rafaella.silva@farmtech.com.br,2026-10-01,2026-10-01,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,rafaella.silva@farmtech.com.br,2026-10-02,2026-10-02,,3,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,44e46fb6-bdf8-41c2-ae7a-f178f81ecd0c,rafaella.silva@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,533b2145-dd9a-4c00-8394-6ad99e8e2e8e,fernanda.hamatsu@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,6f8b6ff0-133f-42fb-a845-382a0967e720,fernanda.hamatsu@farmtech.com.br,2026-10-06,2026-10-06,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,6f8b6ff0-133f-42fb-a845-382a0967e720,fernanda.hamatsu@farmtech.com.br,2026-10-08,2026-10-08,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,6f8b6ff0-133f-42fb-a845-382a0967e720,fernanda.hamatsu@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,6f8b6ff0-133f-42fb-a845-382a0967e720,fernanda.hamatsu@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,6f8b6ff0-133f-42fb-a845-382a0967e720,guilherme.batista@farmtech.com.br,2026-03-08,2026-03-08,2026-04-02,3,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,6f8b6ff0-133f-42fb-a845-382a0967e720,gustavo.resende@farmtech.com.br,2026-03-08,2026-03-23,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,6f8b6ff0-133f-42fb-a845-382a0967e720,joao.victor@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,6f8b6ff0-133f-42fb-a845-382a0967e720,maria.olino@farmtech.com.br,2026-03-08,2026-04-02,2026-04-02,12,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,6f8b6ff0-133f-42fb-a845-382a0967e720,rafaella.silva@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82b3b389-e447-4c12-a911-c9c8fff89308,fernanda.hamatsu@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82b3b389-e447-4c12-a911-c9c8fff89308,guilherme.batista@farmtech.com.br,2026-03-08,2026-03-10,2026-04-02,2,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82b3b389-e447-4c12-a911-c9c8fff89308,joao.victor@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82b3b389-e447-4c12-a911-c9c8fff89308,maria.olino@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82b3b389-e447-4c12-a911-c9c8fff89308,pedro.henrique@farmtech.com.br,2026-03-08,2026-03-26,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82b3b389-e447-4c12-a911-c9c8fff89308,rodrigo.deus@farmtech.com.br,2026-03-08,2026-03-16,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,andre.garcia@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,andre.garcia@farmtech.com.br,2026-10-14,2026-10-14,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,beatriz.guimaraes@farmtech.com.br,2026-03-08,2026-03-30,2026-04-02,2,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,beatriz.guimaraes@farmtech.com.br,2026-09-24,2026-09-24,,4,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,beatriz.guimaraes@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,beatriz.guimaraes@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,gabriela.silva@farmtech.com.br,2026-03-08,2026-03-30,2026-04-02,11,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,gustavo.resende@farmtech.com.br,2026-03-08,2026-03-23,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,heitor.cesar@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,heitor.cesar@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,heitor.cesar@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,heitor.cesar@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,heitor.cesar@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,heitor.cesar@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,heitor.cesar@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,heitor.cesar@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,inara.monteiro@farmtech.com.br,2026-03-08,2026-03-31,2026-04-02,6,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,inara.monteiro@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,inara.monteiro@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,inara.monteiro@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,inara.monteiro@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,joao.victor@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,joao.victor@farmtech.com.br,2026-10-05,2026-10-05,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,joao.victor@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,maxymiliana.soares@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,maxymiliana.soares@farmtech.com.br,2026-09-25,2026-09-25,,2,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,maxymiliana.soares@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,maxymiliana.soares@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,maxymiliana.soares@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,miguel.augusto@farmtech.com.br,2026-03-08,2026-03-25,2026-04-02,6,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,pedro.henrique@farmtech.com.br,2026-03-08,2026-04-01,2026-04-02,9,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,rafaella.silva@farmtech.com.br,2026-03-08,2026-03-26,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,rafaella.silva@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,82fd03c5-d49c-47a1-9978-7d12345f41a5,rodrigo.deus@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,908654d1-250e-4b22-a946-1089f2420b7d,marcos.barbosa@farmtech.com.br,2026-03-08,2026-04-01,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,9d6f86df-db05-41d0-bd78-95a65f6aadf5,fernanda.hamatsu@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,9d6f86df-db05-41d0-bd78-95a65f6aadf5,gabriela.silva@farmtech.com.br,2026-03-08,2026-03-23,2026-04-02,1,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,9d6f86df-db05-41d0-bd78-95a65f6aadf5,inara.monteiro@farmtech.com.br,2026-03-08,2026-03-24,2026-04-02,4,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,d4fe69f1-8105-4f53-b541-c7dd2ade8538,joao.victor@farmtech.com.br,2026-03-08,2026-03-13,2026-04-02,2,janela
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,d4fe69f1-8105-4f53-b541-c7dd2ade8538,joao.victor@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,d4fe69f1-8105-4f53-b541-c7dd2ade8538,marcos.barbosa@farmtech.com.br,2026-09-29,2026-09-29,,4,dia
+e07e718c-412a-46d2-b9a0-3fd7f8699de0,BI Credito,d4fe69f1-8105-4f53-b541-c7dd2ade8538,rodrigo.deus@farmtech.com.br,2026-09-28,2026-09-28,,4,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,01b3c263-7ed6-42da-a04b-686778738298,fernanda.hamatsu@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,1c10b80c-6d10-4bce-b39b-130abba93592,daniel.santana@farmtech.com.br,2026-10-13,2026-10-13,,7,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,2f1426e6-4512-4251-af0c-5140d65df32c,liz.martins@farmtech.com.br,2026-09-28,2026-09-28,,8,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,2f1426e6-4512-4251-af0c-5140d65df32c,mariana.soares@farmtech.com.br,2026-09-28,2026-09-28,,7,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,2f1426e6-4512-4251-af0c-5140d65df32c,mariana.soares@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,3761df88-8757-423f-a2e4-ae3263411951,daniel.santana@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,439e555c-e5ae-4bd9-904c-283ccb26ba89,maria.olino@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,55ac0d12-54d8-4349-81b4-c5057956c7de,daniel.santana@farmtech.com.br,2026-10-06,2026-10-06,,5,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,55ac0d12-54d8-4349-81b4-c5057956c7de,daniel.santana@farmtech.com.br,2026-10-13,2026-10-13,,12,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,81f7c936-6091-4392-b58e-063bf3a7c5cc,mariana.soares@farmtech.com.br,2026-09-30,2026-09-30,,6,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,8c99e579-1d54-4f5f-a432-5e4da56fde0a,joao.victor@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,d0a2945f-b000-407b-b717-a800d6ac07aa,maria.olino@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,d0a2945f-b000-407b-b717-a800d6ac07aa,maria.olino@farmtech.com.br,2026-09-16,2026-09-16,,2,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,d486b87c-b3dd-486c-88fd-04d00c2ae942,josue.nascimento@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,da8a63a6-42b1-4977-977e-8c4ef6324338,daniel.santana@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,da8a63a6-42b1-4977-977e-8c4ef6324338,daniel.santana@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,e9b65129-d906-4216-ba21-15c03825be18,daniel.santana@farmtech.com.br,2026-10-06,2026-10-06,,2,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,ea6ae082-28ac-49aa-b081-47baa3b7f142,liz.martins@farmtech.com.br,2026-09-29,2026-09-29,,2,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,ea6ae082-28ac-49aa-b081-47baa3b7f142,marcos.barbosa@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,ea6ae082-28ac-49aa-b081-47baa3b7f142,mariana.soares@farmtech.com.br,2026-09-30,2026-09-30,,5,dia
+0daa1385-d968-4960-bbe6-6a0070742739,BI Dados & Analytics,f3decd9a-155f-4c9c-bfd5-4bf3f9d70b14,joao.victor@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,1a5ebbc4-580f-4880-8115-42078ff3e62f,marcos.barbosa@farmtech.com.br,2026-07-13,2026-07-13,2026-08-03,1,janela
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,1a5ebbc4-580f-4880-8115-42078ff3e62f,maria.olino@farmtech.com.br,2026-07-13,2026-07-13,2026-08-03,1,janela
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,37571c08-3aad-4711-8eec-06191274f33d,marcos.barbosa@farmtech.com.br,2026-07-13,2026-07-13,2026-08-03,1,janela
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,531a8fdf-7689-4238-901b-3e22b2911796,marcos.barbosa@farmtech.com.br,2026-07-13,2026-07-13,2026-08-03,1,janela
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,7952fc65-a6ad-4631-b677-53041bab1787,marcos.barbosa@farmtech.com.br,2026-07-13,2026-07-13,2026-08-03,1,janela
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,7e173e97-0575-496b-ab76-0cc8897bfcdb,marcos.barbosa@farmtech.com.br,2026-07-13,2026-07-13,2026-08-03,1,janela
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,8d046f47-ebea-4534-8e50-96d4cff7f1b5,marcos.barbosa@farmtech.com.br,2026-07-13,2026-07-13,2026-08-03,1,janela
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,8d046f47-ebea-4534-8e50-96d4cff7f1b5,rodrigo.deus@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,af381d09-2fec-4f8e-a4a6-3910f8c3c3cf,marcos.barbosa@farmtech.com.br,2026-07-13,2026-07-13,2026-08-03,1,janela
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,af381d09-2fec-4f8e-a4a6-3910f8c3c3cf,maria.olino@farmtech.com.br,2026-09-18,2026-09-18,,2,dia
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,af381d09-2fec-4f8e-a4a6-3910f8c3c3cf,rafaella.silva@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,b1472ba9-f86d-4e92-a6d9-1d477c17dfbc,miguel.augusto@farmtech.com.br,2026-07-13,2026-08-03,2026-08-03,1,janela
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,ca4911bb-2151-4511-acf6-4b3bcbec2283,guilherme.batista@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,ca4911bb-2151-4511-acf6-4b3bcbec2283,guilherme.batista@farmtech.com.br,2026-09-21,2026-09-21,,2,dia
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,ca4911bb-2151-4511-acf6-4b3bcbec2283,guilherme.batista@farmtech.com.br,2026-09-22,2026-09-22,,2,dia
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,ca4911bb-2151-4511-acf6-4b3bcbec2283,guilherme.batista@farmtech.com.br,2026-09-23,2026-09-23,,4,dia
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,ca4911bb-2151-4511-acf6-4b3bcbec2283,guilherme.batista@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,ca4911bb-2151-4511-acf6-4b3bcbec2283,guilherme.batista@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,ca4911bb-2151-4511-acf6-4b3bcbec2283,guilherme.batista@farmtech.com.br,2026-09-26,2026-09-26,,5,dia
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,ca4911bb-2151-4511-acf6-4b3bcbec2283,guilherme.batista@farmtech.com.br,2026-09-27,2026-09-27,,4,dia
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,ca4911bb-2151-4511-acf6-4b3bcbec2283,guilherme.batista@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,ca4911bb-2151-4511-acf6-4b3bcbec2283,marcos.barbosa@farmtech.com.br,2026-07-13,2026-07-13,2026-08-03,1,janela
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,ca4911bb-2151-4511-acf6-4b3bcbec2283,marcos.barbosa@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,ca4911bb-2151-4511-acf6-4b3bcbec2283,rodrigo.deus@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+01b35931-c710-49ff-8f0e-3565ffaa668b,BI Diligências,f9a212c5-12ee-4674-8a8e-1c71eb6adba4,marcos.barbosa@farmtech.com.br,2026-07-13,2026-07-13,2026-08-03,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,Rafael.ferreira@farmtech.com.br,2026-03-09,2026-03-18,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,Ricardo.Alves@farmtech.com.br,2026-09-15,2026-09-15,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,Ricardo.Alves@farmtech.com.br,2026-09-16,2026-09-16,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,Ricardo.Alves@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,Ricardo.Alves@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,Ricardo.Alves@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,Ricardo.Alves@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,andrea.kolling@farmtech.com.br,2026-03-09,2026-04-02,2026-04-05,10,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,andrea.kolling@farmtech.com.br,2026-09-22,2026-09-22,,5,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,andrea.kolling@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,andrea.kolling@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,andrea.kolling@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,andrea.kolling@farmtech.com.br,2026-10-01,2026-10-01,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,andrea.kolling@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,andrea.kolling@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,beatriz.guimaraes@farmtech.com.br,2026-03-09,2026-03-10,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,beatriz.torres@farmtech.com.br,2026-03-09,2026-04-02,2026-04-05,11,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,beatriz.torres@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,beatriz.torres@farmtech.com.br,2026-09-23,2026-09-23,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,bruna.umino@farmtech.com.br,2026-03-09,2026-03-24,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,caio.wurtz@farmtech.com.br,2026-09-21,2026-09-21,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,caio.wurtz@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,caio.wurtz@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,caio.wurtz@farmtech.com.br,2026-10-05,2026-10-05,,4,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,caio.wurtz@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,caio.wurtz@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,eduardo.mello@farmtech.com.br,2026-09-22,2026-09-22,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,eduardo.mello@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,eduardo.mello@farmtech.com.br,2026-09-28,2026-09-28,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,eduardo.mello@farmtech.com.br,2026-09-29,2026-09-29,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,eduardo.mello@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,eduardo.mello@farmtech.com.br,2026-10-09,2026-10-09,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,felipe.scattini@farmtech.com.br,2026-09-18,2026-09-18,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,felipe.scattini@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,felipe.scattini@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,felipe.scattini@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,felipe.scattini@farmtech.com.br,2026-10-05,2026-10-05,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-03-09,2026-04-02,2026-04-05,25,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-09-14,2026-09-14,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-09-15,2026-09-15,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-09-18,2026-09-18,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-09-23,2026-09-23,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-09-29,2026-09-29,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-10-01,2026-10-01,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-10-02,2026-10-02,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-10-09,2026-10-09,,4,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-10-13,2026-10-13,,5,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriel.avila@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,gabriela.silva@farmtech.com.br,2026-03-09,2026-03-27,2026-04-05,7,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,giovanni.castro@farmtech.com.br,2026-03-09,2026-03-24,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,guilherme.batista@farmtech.com.br,2026-03-09,2026-03-23,2026-04-05,16,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,heitor.cesar@farmtech.com.br,2026-03-09,2026-04-02,2026-04-05,6,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-03-09,2026-04-02,2026-04-05,23,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-09-16,2026-09-16,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-09-17,2026-09-17,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-10-01,2026-10-01,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,inara.monteiro@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,liz.martins@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,lorenzzo.veneziani@farmtech.com.br,2026-09-23,2026-09-23,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,lorenzzo.veneziani@farmtech.com.br,2026-09-24,2026-09-24,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,lorenzzo.veneziani@farmtech.com.br,2026-09-25,2026-09-25,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,lorenzzo.veneziani@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,lorenzzo.veneziani@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,lorenzzo.veneziani@farmtech.com.br,2026-10-08,2026-10-08,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,marcelo.leobaldo@farmtech.com.br,2026-03-09,2026-03-16,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,marcos.barbosa@farmtech.com.br,2026-03-09,2026-03-16,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,maria.olino@farmtech.com.br,2026-03-09,2026-03-30,2026-04-05,11,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,maria.olino@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,matheus.rodrigues@farmtech.com.br,2026-03-09,2026-03-09,2026-04-05,3,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,matheus.rodrigues@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,maxymiliana.soares@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,miguel.augusto@farmtech.com.br,2026-03-09,2026-04-02,2026-04-05,17,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,miguel.augusto@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,miguel.augusto@farmtech.com.br,2026-09-17,2026-09-17,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,miguel.augusto@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,miguel.augusto@farmtech.com.br,2026-09-21,2026-09-21,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,miguel.augusto@farmtech.com.br,2026-09-22,2026-09-22,,4,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,miguel.augusto@farmtech.com.br,2026-09-24,2026-09-24,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,miguel.augusto@farmtech.com.br,2026-09-29,2026-09-29,,5,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,miguel.augusto@farmtech.com.br,2026-10-01,2026-10-01,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,miguel.augusto@farmtech.com.br,2026-10-02,2026-10-02,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,miguel.augusto@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,miguel.augusto@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,miguel.augusto@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,miguel.augusto@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,miguel.augusto@farmtech.com.br,2026-10-14,2026-10-14,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,pedro.henrique@farmtech.com.br,2026-03-09,2026-04-02,2026-04-05,6,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,priscila.rangel@farmtech.com.br,2026-03-09,2026-03-16,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rafaella.silva@farmtech.com.br,2026-03-09,2026-04-01,2026-04-05,3,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rafaella.silva@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rafaella.silva@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rafaella.silva@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rafaella.silva@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rafaella.silva@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rafaella.silva@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rafaella.silva@farmtech.com.br,2026-10-01,2026-10-01,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rafaella.silva@farmtech.com.br,2026-10-02,2026-10-02,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rafaella.silva@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rafaella.silva@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rene.camargo@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rene.camargo@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rene.camargo@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rene.camargo@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rene.camargo@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rene.camargo@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rene.camargo@farmtech.com.br,2026-10-08,2026-10-08,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rene.camargo@farmtech.com.br,2026-10-13,2026-10-13,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rodrigo.deus@farmtech.com.br,2026-03-09,2026-03-16,2026-04-05,3,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rodrigo.deus@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rodrigo.ferreira@farmtech.com.br,2026-03-09,2026-03-30,2026-04-05,4,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rodrigo.ferreira@farmtech.com.br,2026-09-17,2026-09-17,,4,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rodrigo.ferreira@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,rodrigo.ferreira@farmtech.com.br,2026-10-01,2026-10-01,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,1ab3722c-1d45-4ffd-b934-ce19b5b329fa,thales.guerra@farmtech.com.br,2026-03-09,2026-04-02,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,4e848d23-07e3-4ff9-9eac-fac9f868ce87,Rafael.Pilla@farmtech.com.br,2026-10-11,2026-10-11,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,4e848d23-07e3-4ff9-9eac-fac9f868ce87,beatriz.torres@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,4e848d23-07e3-4ff9-9eac-fac9f868ce87,beatriz.torres@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,4e848d23-07e3-4ff9-9eac-fac9f868ce87,joao.victor@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,4e848d23-07e3-4ff9-9eac-fac9f868ce87,marcos.barbosa@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,4e848d23-07e3-4ff9-9eac-fac9f868ce87,rene.camargo@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,Rafael.Pilla@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,Rafael.Pilla@farmtech.com.br,2026-09-19,2026-09-19,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,Rafael.Pilla@farmtech.com.br,2026-09-20,2026-09-20,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,ana.marcolin@farmtech.com.br,2026-03-09,2026-03-20,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,beatriz.torres@farmtech.com.br,2026-03-09,2026-03-17,2026-04-05,3,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,beatriz.torres@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,beatriz.torres@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,bruna.umino@farmtech.com.br,2026-03-09,2026-03-31,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,caio.rodrigues@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,daniel.romano@farmtech.com.br,2026-03-09,2026-03-26,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,daniel.romano@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,daniel.romano@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,gabriel.augusto@farmtech.com.br,2026-03-09,2026-04-01,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,gabriel.avila@farmtech.com.br,2026-03-09,2026-04-02,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,guilherme.batista@farmtech.com.br,2026-03-09,2026-03-30,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,gustavo.resende@farmtech.com.br,2026-03-09,2026-03-09,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,liz.martins@farmtech.com.br,2026-09-28,2026-09-28,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,marcos.barbosa@farmtech.com.br,2026-03-09,2026-03-25,2026-04-05,6,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,marcos.barbosa@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,marcos.barbosa@farmtech.com.br,2026-09-17,2026-09-17,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,marcos.barbosa@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,maria.olino@farmtech.com.br,2026-03-09,2026-03-18,2026-04-05,17,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,matheus.rodrigues@farmtech.com.br,2026-03-09,2026-03-09,2026-04-05,5,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,matheus.rodrigues@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,matheus.rodrigues@farmtech.com.br,2026-09-18,2026-09-18,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,matheus.rodrigues@farmtech.com.br,2026-09-21,2026-09-21,,6,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,matheus.rodrigues@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,matheus.rodrigues@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,miguel.augusto@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,miguel.augusto@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,pedro.henrique@farmtech.com.br,2026-03-09,2026-03-11,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,priscila.rangel@farmtech.com.br,2026-03-09,2026-03-16,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,renato.russo@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,rodrigo.deus@farmtech.com.br,2026-03-09,2026-03-16,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,rodrigo.deus@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,rodrigo.deus@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,rodrigo.ferreira@farmtech.com.br,2026-03-09,2026-03-31,2026-04-05,3,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,rodrigo.ferreira@farmtech.com.br,2026-09-17,2026-09-17,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,5574f6ec-1beb-4e99-be31-ccbfa90da0aa,rodrigo.ferreira@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,andre.garcia@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,beatriz.guimaraes@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,bruna.umino@farmtech.com.br,2026-03-09,2026-03-31,2026-04-05,4,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,felipe.scattini@farmtech.com.br,2026-09-18,2026-09-18,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,felipe.scattini@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,felipe.scattini@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,gabriel.augusto@farmtech.com.br,2026-03-09,2026-04-01,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,gabriel.avila@farmtech.com.br,2026-03-09,2026-03-25,2026-04-05,3,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,gabriela.silva@farmtech.com.br,2026-03-09,2026-03-26,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,heitor.cesar@farmtech.com.br,2026-10-01,2026-10-01,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,heitor.cesar@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,joao.victor@farmtech.com.br,2026-03-09,2026-03-23,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,marcela.bosch@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,marcos.barbosa@farmtech.com.br,2026-03-09,2026-03-25,2026-04-05,8,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,marcos.barbosa@farmtech.com.br,2026-09-17,2026-09-17,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,marcos.barbosa@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,marcos.barbosa@farmtech.com.br,2026-09-29,2026-09-29,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,maria.olino@farmtech.com.br,2026-03-09,2026-03-26,2026-04-05,11,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,maria.olino@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,mariana.ponde@farmtech.com.br,2026-09-17,2026-09-17,,6,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,matheus.rodrigues@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,matheus.rodrigues@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,matheus.rodrigues@farmtech.com.br,2026-09-17,2026-09-17,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,matheus.rodrigues@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,matheus.rodrigues@farmtech.com.br,2026-09-24,2026-09-24,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,matheus.rodrigues@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,miguel.augusto@farmtech.com.br,2026-09-14,2026-09-14,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,miguel.augusto@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,miguel.augusto@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,miguel.augusto@farmtech.com.br,2026-09-18,2026-09-18,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,miguel.augusto@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,miguel.augusto@farmtech.com.br,2026-10-02,2026-10-02,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,miguel.augusto@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,miguel.augusto@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,paulo.ferreira@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,pedro.henrique@farmtech.com.br,2026-03-09,2026-03-11,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,priscila.rangel@farmtech.com.br,2026-03-09,2026-03-18,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,rodrigo.deus@farmtech.com.br,2026-03-09,2026-03-24,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,rodrigo.deus@farmtech.com.br,2026-09-28,2026-09-28,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,rodrigo.ferreira@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,61cb1ff2-3d57-46c0-87c9-ec0f92d7a107,thales.guerra@farmtech.com.br,2026-03-09,2026-04-02,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,6aed176b-6a7d-4b77-8bef-640072779586,antonio.raposo@farmtech.com.br,2026-03-09,2026-03-23,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,6aed176b-6a7d-4b77-8bef-640072779586,antonio.raposo@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,6aed176b-6a7d-4b77-8bef-640072779586,marcos.barbosa@farmtech.com.br,2026-03-09,2026-03-31,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,6aed176b-6a7d-4b77-8bef-640072779586,matheus.rodrigues@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,6aed176b-6a7d-4b77-8bef-640072779586,miguel.augusto@farmtech.com.br,2026-03-09,2026-03-25,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,6aed176b-6a7d-4b77-8bef-640072779586,nelson.Heleno@farmtech.com.br,2026-03-09,2026-04-01,2026-04-05,4,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,Rafael.Pilla@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,Rafael.Pilla@farmtech.com.br,2026-10-11,2026-10-11,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,andre.garcia@farmtech.com.br,2026-10-07,2026-10-07,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,andre.garcia@farmtech.com.br,2026-10-14,2026-10-14,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,andrea.kolling@farmtech.com.br,2026-03-09,2026-04-02,2026-04-05,3,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,beatriz.guimaraes@farmtech.com.br,2026-03-09,2026-03-30,2026-04-05,4,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,beatriz.guimaraes@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,beatriz.guimaraes@farmtech.com.br,2026-09-29,2026-09-29,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,beatriz.guimaraes@farmtech.com.br,2026-10-05,2026-10-05,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,beatriz.torres@farmtech.com.br,2026-03-09,2026-03-25,2026-04-05,3,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,beatriz.torres@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,beatriz.torres@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,beatriz.torres@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,beatriz.torres@farmtech.com.br,2026-09-24,2026-09-24,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,beatriz.torres@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,beatriz.torres@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,beatriz.torres@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,bruna.umino@farmtech.com.br,2026-03-09,2026-03-17,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,caio.rodrigues@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,elias.junior@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,elias.junior@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,elias.junior@farmtech.com.br,2026-10-08,2026-10-08,,4,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,elias.junior@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,elias.junior@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,eric.lopes@farmtech.com.br,2026-03-09,2026-04-01,2026-04-05,14,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,eric.lopes@farmtech.com.br,2026-09-16,2026-09-16,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,eric.lopes@farmtech.com.br,2026-09-23,2026-09-23,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,eric.lopes@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,eric.lopes@farmtech.com.br,2026-10-07,2026-10-07,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,eric.lopes@farmtech.com.br,2026-10-08,2026-10-08,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,felipe.scattini@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,gabriel.augusto@farmtech.com.br,2026-03-09,2026-04-02,2026-04-05,23,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,gabriel.avila@farmtech.com.br,2026-03-09,2026-03-18,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,gabriel.avila@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,gabriel.avila@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,gabriela.silva@farmtech.com.br,2026-03-09,2026-03-27,2026-04-05,10,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,gustavo.resende@farmtech.com.br,2026-03-09,2026-03-10,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,heitor.cesar@farmtech.com.br,2026-03-09,2026-03-26,2026-04-05,3,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,heitor.cesar@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,heitor.cesar@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,heitor.cesar@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,heitor.cesar@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,heitor.cesar@farmtech.com.br,2026-10-01,2026-10-01,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,heitor.cesar@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,heitor.cesar@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,heitor.cesar@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,heitor.cesar@farmtech.com.br,2026-10-08,2026-10-08,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,heitor.cesar@farmtech.com.br,2026-10-14,2026-10-14,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,henrique.bonin@farmtech.com.br,2026-09-28,2026-09-28,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,inara.monteiro@farmtech.com.br,2026-03-09,2026-04-02,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,inara.monteiro@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,joao.victor@farmtech.com.br,2026-03-09,2026-03-23,2026-04-05,6,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,joao.victor@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,joao.victor@farmtech.com.br,2026-10-13,2026-10-13,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,larissa.rosa@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,leonardo.nacarato@farmtech.com.br,2026-03-09,2026-04-02,2026-04-05,17,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,liz.martins@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,lorenzzo.veneziani@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,luis.goncalves@farmtech.com.br,2026-03-09,2026-03-17,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,marcos.barbosa@farmtech.com.br,2026-03-09,2026-04-01,2026-04-05,25,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,marcos.barbosa@farmtech.com.br,2026-09-16,2026-09-16,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,marcos.barbosa@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,marcos.barbosa@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,marcos.barbosa@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,marcos.barbosa@farmtech.com.br,2026-10-07,2026-10-07,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,marcos.barbosa@farmtech.com.br,2026-10-08,2026-10-08,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,marcos.barbosa@farmtech.com.br,2026-10-09,2026-10-09,,5,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,marcos.barbosa@farmtech.com.br,2026-10-13,2026-10-13,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,marcos.barbosa@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,maria.olino@farmtech.com.br,2026-03-09,2026-03-18,2026-04-05,3,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,mariana.ponde@farmtech.com.br,2026-09-17,2026-09-17,,4,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,matheus.albuquerque@farmtech.com.br,2026-03-09,2026-03-26,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,matheus.rodrigues@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,maxymiliana.soares@farmtech.com.br,2026-09-24,2026-09-24,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,maxymiliana.soares@farmtech.com.br,2026-09-28,2026-09-28,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,maxymiliana.soares@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,miguel.augusto@farmtech.com.br,2026-10-13,2026-10-13,,4,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,miguel.augusto@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,paula.panitz@farmtech.com.br,2026-10-01,2026-10-01,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,paulo.ferreira@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,pedro.henrique@farmtech.com.br,2026-03-09,2026-04-01,2026-04-05,3,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,priscila.rangel@farmtech.com.br,2026-03-09,2026-03-18,2026-04-05,5,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,rafaella.silva@farmtech.com.br,2026-03-09,2026-03-09,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,rafaella.silva@farmtech.com.br,2026-09-24,2026-09-24,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,rene.camargo@farmtech.com.br,2026-09-14,2026-09-14,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,rene.camargo@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,rene.camargo@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,rene.camargo@farmtech.com.br,2026-10-06,2026-10-06,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,rene.camargo@farmtech.com.br,2026-10-07,2026-10-07,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,rene.camargo@farmtech.com.br,2026-10-08,2026-10-08,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,rodrigo.ferreira@farmtech.com.br,2026-03-09,2026-03-31,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,rodrigo.ferreira@farmtech.com.br,2026-09-22,2026-09-22,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,rodrigo.ferreira@farmtech.com.br,2026-10-02,2026-10-02,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,rodrigo.ferreira@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,rodrigo.ferreira@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,thales.guerra@farmtech.com.br,2026-03-09,2026-03-17,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,thiago.aucar@farmtech.com.br,2026-03-09,2026-03-23,2026-04-05,5,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,toshiaki.sato@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,a656ba86-c3b1-486c-98d7-47fc852dc1b8,victor.diogo@farmtech.com.br,2026-03-09,2026-03-26,2026-04-05,3,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,b2412c02-bdda-4bd5-9ab6-06395afdf014,caio.rodrigues@farmtech.com.br,2026-03-09,2026-03-26,2026-04-05,4,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,b2412c02-bdda-4bd5-9ab6-06395afdf014,caio.rodrigues@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,b2412c02-bdda-4bd5-9ab6-06395afdf014,caio.rodrigues@farmtech.com.br,2026-10-01,2026-10-01,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,b2412c02-bdda-4bd5-9ab6-06395afdf014,caio.rodrigues@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,b2412c02-bdda-4bd5-9ab6-06395afdf014,gabriel.augusto@farmtech.com.br,2026-03-09,2026-03-12,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,b2412c02-bdda-4bd5-9ab6-06395afdf014,gustavo.resende@farmtech.com.br,2026-03-09,2026-03-10,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,b2412c02-bdda-4bd5-9ab6-06395afdf014,marcos.barbosa@farmtech.com.br,2026-09-16,2026-09-16,,4,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,b2412c02-bdda-4bd5-9ab6-06395afdf014,maria.olino@farmtech.com.br,2026-09-24,2026-09-24,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,b2412c02-bdda-4bd5-9ab6-06395afdf014,matheus.rodrigues@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,b2412c02-bdda-4bd5-9ab6-06395afdf014,matheus.rodrigues@farmtech.com.br,2026-09-23,2026-09-23,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,b2412c02-bdda-4bd5-9ab6-06395afdf014,matheus.rodrigues@farmtech.com.br,2026-10-01,2026-10-01,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,b2412c02-bdda-4bd5-9ab6-06395afdf014,rodrigo.ferreira@farmtech.com.br,2026-03-09,2026-03-31,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bc9f53e0-8d4f-4eca-9166-97e48dd90c1a,beatriz.torres@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bc9f53e0-8d4f-4eca-9166-97e48dd90c1a,gabriel.augusto@farmtech.com.br,2026-03-09,2026-03-12,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bc9f53e0-8d4f-4eca-9166-97e48dd90c1a,gabriela.silva@farmtech.com.br,2026-03-09,2026-03-26,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bc9f53e0-8d4f-4eca-9166-97e48dd90c1a,matheus.rodrigues@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bc9f53e0-8d4f-4eca-9166-97e48dd90c1a,miguel.augusto@farmtech.com.br,2026-03-09,2026-03-23,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bc9f53e0-8d4f-4eca-9166-97e48dd90c1a,miguel.augusto@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bc9f53e0-8d4f-4eca-9166-97e48dd90c1a,rodrigo.ferreira@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,Rafael.ferreira@farmtech.com.br,2026-03-09,2026-03-18,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,ana.marcolin@farmtech.com.br,2026-03-09,2026-03-20,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,ana.marcolin@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,ana.marcolin@farmtech.com.br,2026-09-25,2026-09-25,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,andre.garcia@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,andrea.kolling@farmtech.com.br,2026-03-09,2026-03-30,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,andrea.kolling@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,andrea.kolling@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,andrea.kolling@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,beatriz.guimaraes@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,beatriz.guimaraes@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,beatriz.guimaraes@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,beatriz.guimaraes@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,beatriz.guimaraes@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,beatriz.torres@farmtech.com.br,2026-03-09,2026-03-17,2026-04-05,3,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,beatriz.torres@farmtech.com.br,2026-09-23,2026-09-23,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,beatriz.torres@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,beatriz.torres@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,bruna.umino@farmtech.com.br,2026-03-09,2026-03-24,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,daniel.romano@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,daniel.romano@farmtech.com.br,2026-09-19,2026-09-19,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,daniel.romano@farmtech.com.br,2026-09-20,2026-09-20,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,daniel.romano@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,felipe.moreira@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,felipe.scattini@farmtech.com.br,2026-03-09,2026-03-31,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,felipe.scattini@farmtech.com.br,2026-09-13,2026-09-13,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,felipe.scattini@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,felipe.scattini@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,felipe.scattini@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,felipe.scattini@farmtech.com.br,2026-09-18,2026-09-18,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,felipe.scattini@farmtech.com.br,2026-09-24,2026-09-24,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,felipe.scattini@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,felipe.scattini@farmtech.com.br,2026-09-28,2026-09-28,,5,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,felipe.scattini@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,felipe.scattini@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,felipe.scattini@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,felipe.scattini@farmtech.com.br,2026-10-13,2026-10-13,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,felipe.scattini@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,gabriel.avila@farmtech.com.br,2026-03-09,2026-03-25,2026-04-05,9,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,gabriel.avila@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,gabriel.avila@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,gabriel.avila@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,gabriel.avila@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,gabriel.avila@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,gabriel.avila@farmtech.com.br,2026-10-13,2026-10-13,,4,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,giovanni.castro@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,giovanni.castro@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,giovanni.castro@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,giovanni.castro@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,giovanni.castro@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,guilherme.batista@farmtech.com.br,2026-03-09,2026-03-16,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,heitor.cesar@farmtech.com.br,2026-09-14,2026-09-14,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,heitor.cesar@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,heitor.cesar@farmtech.com.br,2026-09-23,2026-09-23,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,heitor.cesar@farmtech.com.br,2026-09-25,2026-09-25,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,heitor.cesar@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,heitor.cesar@farmtech.com.br,2026-10-01,2026-10-01,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,heitor.cesar@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,heitor.cesar@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,heitor.cesar@farmtech.com.br,2026-10-07,2026-10-07,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,heitor.cesar@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,heitor.cesar@farmtech.com.br,2026-10-13,2026-10-13,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,heitor.cesar@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,inara.monteiro@farmtech.com.br,2026-03-09,2026-04-01,2026-04-05,4,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,inara.monteiro@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,inara.monteiro@farmtech.com.br,2026-09-15,2026-09-15,,4,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,inara.monteiro@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,inara.monteiro@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,inara.monteiro@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,inara.monteiro@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,inara.monteiro@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,inara.monteiro@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,inara.monteiro@farmtech.com.br,2026-09-29,2026-09-29,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,inara.monteiro@farmtech.com.br,2026-09-30,2026-09-30,,4,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,inara.monteiro@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,inara.monteiro@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,inara.monteiro@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,inara.monteiro@farmtech.com.br,2026-10-08,2026-10-08,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,inara.monteiro@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,inara.monteiro@farmtech.com.br,2026-10-13,2026-10-13,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,inara.monteiro@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,marcos.barbosa@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,maria.olino@farmtech.com.br,2026-03-09,2026-03-26,2026-04-05,3,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,maria.olino@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,martim.thomazelli@farmtech.com.br,2026-03-09,2026-03-27,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,matheus.rodrigues@farmtech.com.br,2026-03-09,2026-03-09,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,matheus.rodrigues@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,matheus.rodrigues@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,maxymiliana.soares@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-03-09,2026-03-31,2026-04-05,11,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-09-14,2026-09-14,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-09-15,2026-09-15,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-09-16,2026-09-16,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-09-17,2026-09-17,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-09-18,2026-09-18,,5,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-09-21,2026-09-21,,4,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-09-22,2026-09-22,,4,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-09-23,2026-09-23,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-09-24,2026-09-24,,6,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-09-29,2026-09-29,,5,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-10-01,2026-10-01,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-10-02,2026-10-02,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-10-05,2026-10-05,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-10-09,2026-10-09,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,miguel.augusto@farmtech.com.br,2026-10-14,2026-10-14,,5,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,pedro.henrique@farmtech.com.br,2026-03-09,2026-03-31,2026-04-05,6,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,priscila.rangel@farmtech.com.br,2026-03-09,2026-03-18,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rafaella.silva@farmtech.com.br,2026-03-09,2026-03-31,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rafaella.silva@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rafaella.silva@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rafaella.silva@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rafaella.silva@farmtech.com.br,2026-09-24,2026-09-24,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rafaella.silva@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rafaella.silva@farmtech.com.br,2026-09-29,2026-09-29,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rafaella.silva@farmtech.com.br,2026-10-01,2026-10-01,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rafaella.silva@farmtech.com.br,2026-10-02,2026-10-02,,5,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rafaella.silva@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rafaella.silva@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rafaella.silva@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,renato.russo@farmtech.com.br,2026-03-09,2026-03-16,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,renato.russo@farmtech.com.br,2026-09-28,2026-09-28,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,renato.russo@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,renato.russo@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rene.camargo@farmtech.com.br,2026-03-09,2026-04-01,2026-04-05,13,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rene.camargo@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rene.camargo@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rene.camargo@farmtech.com.br,2026-09-21,2026-09-21,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rene.camargo@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rene.camargo@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rene.camargo@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rene.camargo@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rene.camargo@farmtech.com.br,2026-10-02,2026-10-02,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rene.camargo@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rene.camargo@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rene.camargo@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rene.camargo@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rene.camargo@farmtech.com.br,2026-10-13,2026-10-13,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rene.camargo@farmtech.com.br,2026-10-14,2026-10-14,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rodrigo.deus@farmtech.com.br,2026-03-09,2026-03-24,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rodrigo.deus@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rodrigo.ferreira@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rodrigo.ferreira@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rodrigo.ferreira@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rosilene.evencio@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rosilene.evencio@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rosilene.evencio@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,rosilene.evencio@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,toshiaki.sato@farmtech.com.br,2026-03-09,2026-03-12,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,vanessa.ramos@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,bd125d9b-f2a6-4985-881f-1df1419dc9ed,vanessa.ramos@farmtech.com.br,2026-10-14,2026-10-14,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,Rafael.Pilla@farmtech.com.br,2026-09-20,2026-09-20,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,Rafael.ferreira@farmtech.com.br,2026-03-09,2026-03-31,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,ana.marcolin@farmtech.com.br,2026-03-09,2026-03-24,2026-04-05,3,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,beatriz.torres@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,bruna.umino@farmtech.com.br,2026-03-09,2026-03-25,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,caio.rodrigues@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,caio.rodrigues@farmtech.com.br,2026-10-01,2026-10-01,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,carina.moraes@farmtech.com.br,2026-03-09,2026-03-31,2026-04-05,3,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,carina.moraes@farmtech.com.br,2026-09-17,2026-09-17,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,carina.moraes@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,daniel.romano@farmtech.com.br,2026-09-14,2026-09-14,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,daniel.romano@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,eduardo.mello@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,eduardo.mello@farmtech.com.br,2026-09-28,2026-09-28,,4,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,felipe.scattini@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,gabriela.silva@farmtech.com.br,2026-03-09,2026-03-26,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,gustavo.natal@farmtech.com.br,2026-03-09,2026-03-26,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,gustavo.resende@farmtech.com.br,2026-03-09,2026-03-24,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,henrique.bonin@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,joao.victor@farmtech.com.br,2026-03-09,2026-03-30,2026-04-05,17,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,liz.martins@farmtech.com.br,2026-03-09,2026-04-02,2026-04-05,3,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,marcelo.milani@farmtech.com.br,2026-03-09,2026-03-31,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,marcos.barbosa@farmtech.com.br,2026-03-09,2026-04-02,2026-04-05,4,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,marcos.barbosa@farmtech.com.br,2026-09-16,2026-09-16,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,marcos.barbosa@farmtech.com.br,2026-09-17,2026-09-17,,4,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,marcos.barbosa@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,marcos.barbosa@farmtech.com.br,2026-09-29,2026-09-29,,4,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,marcos.barbosa@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,marcos.barbosa@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,marcos.barbosa@farmtech.com.br,2026-10-08,2026-10-08,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,maria.olino@farmtech.com.br,2026-03-09,2026-03-31,2026-04-05,20,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,maria.olino@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,matheus.rodrigues@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,matheus.rodrigues@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,matheus.rodrigues@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,matheus.rodrigues@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,miguel.augusto@farmtech.com.br,2026-03-09,2026-03-30,2026-04-05,4,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,miguel.augusto@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,rafaella.silva@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,rodrigo.deus@farmtech.com.br,2026-03-09,2026-03-16,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,rodrigo.ferreira@farmtech.com.br,2026-03-09,2026-04-02,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,thiago.aucar@farmtech.com.br,2026-03-09,2026-03-25,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,dfbdd81e-75f9-4cc0-b9ad-791e7349c6c0,vinicius.coelho@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,ana.marcolin@farmtech.com.br,2026-03-09,2026-03-20,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,andre.garcia@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,beatriz.guimaraes@farmtech.com.br,2026-03-09,2026-03-30,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,beatriz.guimaraes@farmtech.com.br,2026-09-24,2026-09-24,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,beatriz.guimaraes@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,beatriz.torres@farmtech.com.br,2026-03-09,2026-03-17,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,beatriz.torres@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,beatriz.torres@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,bruna.umino@farmtech.com.br,2026-03-09,2026-04-01,2026-04-05,9,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,caio.rodrigues@farmtech.com.br,2026-03-09,2026-03-23,2026-04-05,3,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,caio.rodrigues@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,caio.rodrigues@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,gabriel.avila@farmtech.com.br,2026-03-09,2026-03-24,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,gabriela.silva@farmtech.com.br,2026-03-09,2026-03-30,2026-04-05,16,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,guilherme.batista@farmtech.com.br,2026-03-09,2026-04-05,2026-04-05,10,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,gustavo.resende@farmtech.com.br,2026-03-09,2026-03-09,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,heitor.cesar@farmtech.com.br,2026-03-09,2026-04-02,2026-04-05,7,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,heitor.cesar@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,heitor.cesar@farmtech.com.br,2026-09-22,2026-09-22,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,heitor.cesar@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,heitor.cesar@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,heitor.cesar@farmtech.com.br,2026-10-07,2026-10-07,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,heitor.cesar@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,joao.victor@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,joao.victor@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,joao.victor@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,lara.midena@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,marcos.barbosa@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,marcos.barbosa@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,marcos.barbosa@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,maria.olino@farmtech.com.br,2026-03-09,2026-03-26,2026-04-05,8,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,maria.olino@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,maria.olino@farmtech.com.br,2026-09-18,2026-09-18,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,maria.olino@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,maria.olino@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,maria.olino@farmtech.com.br,2026-09-24,2026-09-24,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,matheus.rodrigues@farmtech.com.br,2026-03-09,2026-03-17,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,matheus.rodrigues@farmtech.com.br,2026-09-18,2026-09-18,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,matheus.rodrigues@farmtech.com.br,2026-09-21,2026-09-21,,3,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,matheus.rodrigues@farmtech.com.br,2026-10-06,2026-10-06,,2,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,maxymiliana.soares@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,maxymiliana.soares@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,maxymiliana.soares@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,miguel.augusto@farmtech.com.br,2026-03-09,2026-04-02,2026-04-05,1,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,pedro.henrique@farmtech.com.br,2026-03-09,2026-03-25,2026-04-05,8,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,rafaella.silva@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,rene.camargo@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,rodrigo.deus@farmtech.com.br,2026-03-09,2026-03-24,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,rodrigo.deus@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,rodrigo.ferreira@farmtech.com.br,2026-03-09,2026-03-31,2026-04-05,2,janela
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,rodrigo.ferreira@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,rodrigo.ferreira@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,rodrigo.ferreira@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+ab08d545-1fc8-4ed0-8bd3-17f0c4e12efe,BI Fundos Farm,e7b26831-15ab-4303-b53c-0f55e461b164,rodrigo.ferreira@farmtech.com.br,2026-10-14,2026-10-14,,2,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,Ricardo.Alves@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,Ricardo.Alves@farmtech.com.br,2026-09-16,2026-09-16,,4,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,Ricardo.Alves@farmtech.com.br,2026-09-21,2026-09-21,,2,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,Ricardo.Alves@farmtech.com.br,2026-09-23,2026-09-23,,5,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,Ricardo.Alves@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,beatriz.goncalves@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,beatriz.goncalves@farmtech.com.br,2026-09-24,2026-09-24,,2,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,beatriz.goncalves@farmtech.com.br,2026-10-01,2026-10-01,,2,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,joao.victor@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,joao.victor@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,joao.victor@farmtech.com.br,2026-09-16,2026-09-16,,2,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,joao.victor@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,joao.victor@farmtech.com.br,2026-09-18,2026-09-18,,2,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,joao.victor@farmtech.com.br,2026-09-21,2026-09-21,,3,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,joao.victor@farmtech.com.br,2026-09-22,2026-09-22,,3,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,joao.victor@farmtech.com.br,2026-09-23,2026-09-23,,4,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,joao.victor@farmtech.com.br,2026-09-24,2026-09-24,,2,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,joao.victor@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,joao.victor@farmtech.com.br,2026-10-01,2026-10-01,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,joao.victor@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,joao.victor@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,joao.victor@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,joao.victor@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,josue.nascimento@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,marcela.bosch@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,marcela.bosch@farmtech.com.br,2026-10-05,2026-10-05,,2,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,marcos.barbosa@farmtech.com.br,2026-10-14,2026-10-14,,2,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,matheus.rodrigues@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,367e5b22-48c7-492e-bb13-9e4ce289cbcb,priscila.rangel@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,961e4ea0-4afd-41b5-8679-f644f033e8cf,daniel.santana@farmtech.com.br,2026-10-14,2026-10-14,,5,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,961e4ea0-4afd-41b5-8679-f644f033e8cf,marcos.barbosa@farmtech.com.br,2026-09-24,2026-09-24,,2,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,961e4ea0-4afd-41b5-8679-f644f033e8cf,marcos.barbosa@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,9c5aefa2-b47d-4699-9428-802032edae0c,daniel.santana@farmtech.com.br,2026-10-14,2026-10-14,,2,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,a09d0bce-2fa5-4bba-85fc-ecc2f529704e,marcos.barbosa@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,a09d0bce-2fa5-4bba-85fc-ecc2f529704e,marcos.barbosa@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,Ricardo.Alves@farmtech.com.br,2026-09-16,2026-09-16,,2,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,Ricardo.Alves@farmtech.com.br,2026-09-21,2026-09-21,,2,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,Ricardo.Alves@farmtech.com.br,2026-09-23,2026-09-23,,3,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,Ricardo.Alves@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,beatriz.goncalves@farmtech.com.br,2026-09-23,2026-09-23,,2,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,beatriz.goncalves@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,beatriz.goncalves@farmtech.com.br,2026-10-01,2026-10-01,,3,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,daniel.santana@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,guilherme.batista@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,joao.victor@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,joao.victor@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,joao.victor@farmtech.com.br,2026-10-05,2026-10-05,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,joao.victor@farmtech.com.br,2026-10-06,2026-10-06,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,joao.victor@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,joao.victor@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,joao.victor@farmtech.com.br,2026-10-09,2026-10-09,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,joao.victor@farmtech.com.br,2026-10-13,2026-10-13,,3,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,joao.victor@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,liz.martins@farmtech.com.br,2026-09-28,2026-09-28,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,liz.martins@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,marcos.barbosa@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,marcos.barbosa@farmtech.com.br,2026-09-28,2026-09-28,,5,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,marcos.barbosa@farmtech.com.br,2026-10-01,2026-10-01,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,mariana.soares@farmtech.com.br,2026-09-19,2026-09-19,,7,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,mariana.soares@farmtech.com.br,2026-09-21,2026-09-21,,2,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,mariana.soares@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,mariana.soares@farmtech.com.br,2026-09-24,2026-09-24,,2,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,mariana.soares@farmtech.com.br,2026-09-28,2026-09-28,,9,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,mariana.soares@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,mariana.soares@farmtech.com.br,2026-09-30,2026-09-30,,9,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,matheus.rodrigues@farmtech.com.br,2026-09-15,2026-09-15,,2,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,matheus.rodrigues@farmtech.com.br,2026-09-22,2026-09-22,,2,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,matheus.rodrigues@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+903b8c19-f55c-47aa-bbed-f862a81ebbf0,BI Gestão de Fundos,acd51cff-01b5-45f8-b7bc-a2127621a24b,matheus.rodrigues@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,beatriz.goncalves@farmtech.com.br,2026-10-14,2026-10-14,,2,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,eric.lopes@farmtech.com.br,2026-10-14,2026-10-14,,2,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,joao.victor@farmtech.com.br,2026-10-14,2026-10-14,,4,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,marcos.barbosa@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,maria.olino@farmtech.com.br,2026-08-04,2026-08-07,2026-09-02,1,janela
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,maria.olino@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,maria.olino@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,maria.olino@farmtech.com.br,2026-09-24,2026-09-24,,3,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paula.panitz@farmtech.com.br,2026-08-04,2026-08-25,2026-09-02,7,janela
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-08-04,2026-09-02,2026-09-02,54,janela
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-09-18,2026-09-18,,3,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-09-23,2026-09-23,,8,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-09-24,2026-09-24,,7,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-09-25,2026-09-25,,2,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-09-28,2026-09-28,,3,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-10-01,2026-10-01,,13,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-10-02,2026-10-02,,3,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-10-05,2026-10-05,,3,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-10-06,2026-10-06,,3,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-10-07,2026-10-07,,3,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-10-09,2026-10-09,,2,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-10-13,2026-10-13,,1,dia
+0a173ca9-f3d6-4dfa-bdd0-f9b3da70c982,BI Homologação - OKR,55a49dc4-2c54-41ba-b323-c69a0d8b49fd,paulo.souza@farmtech.com.br,2026-10-14,2026-10-14,,3,dia
+692917d7-8916-42c5-8a88-90cd9e2e1e6a,BI Homologação - Risco,73cf88d7-a069-4753-90cc-7c6500c7b1e1,daniel.santana@farmtech.com.br,2026-10-14,2026-10-14,,15,dia
+692917d7-8916-42c5-8a88-90cd9e2e1e6a,BI Homologação - Risco,a6f09e3e-b9f4-4016-b402-56f29af552ac,daniel.santana@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+692917d7-8916-42c5-8a88-90cd9e2e1e6a,BI Homologação - Risco,a6f09e3e-b9f4-4016-b402-56f29af552ac,maria.olino@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+692917d7-8916-42c5-8a88-90cd9e2e1e6a,BI Homologação - Risco,e3de38c7-496d-439e-8893-528ec04bb85d,daniel.santana@farmtech.com.br,2026-10-14,2026-10-14,,7,dia
+bf667628-d967-4061-9f22-64fce7ea51fa,BI Inside Sales,8ddd02c4-7423-42ae-bfed-8bcfbb5b6028,vinicius.coelho@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+bf667628-d967-4061-9f22-64fce7ea51fa,BI Inside Sales,d5c7dd79-2222-4ab0-b0bd-b39df64e5eac,maria.olino@farmtech.com.br,2026-03-10,2026-03-10,2026-03-10,2,janela
+ebd3546f-b29f-4bda-9eec-769536760830,BI Mercado De Capitais,067cf1e3-198a-44e8-a18c-bb645d2d7436,Rafael.Pilla@farmtech.com.br,2026-10-11,2026-10-11,,2,dia
+ebd3546f-b29f-4bda-9eec-769536760830,BI Mercado De Capitais,067cf1e3-198a-44e8-a18c-bb645d2d7436,marcela.bosch@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+ebd3546f-b29f-4bda-9eec-769536760830,BI Mercado De Capitais,067cf1e3-198a-44e8-a18c-bb645d2d7436,marcela.bosch@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+ebd3546f-b29f-4bda-9eec-769536760830,BI Mercado De Capitais,365de7f2-cb0d-4b44-ad7c-4b6bfe76ce26,daniel.santana@farmtech.com.br,2026-10-14,2026-10-14,,5,dia
+ebd3546f-b29f-4bda-9eec-769536760830,BI Mercado De Capitais,5354ac01-6245-4898-9f1e-972351e867b9,beatriz.goncalves@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+ebd3546f-b29f-4bda-9eec-769536760830,BI Mercado De Capitais,5354ac01-6245-4898-9f1e-972351e867b9,daniel.santana@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+ebd3546f-b29f-4bda-9eec-769536760830,BI Mercado De Capitais,5354ac01-6245-4898-9f1e-972351e867b9,josue.nascimento@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+ebd3546f-b29f-4bda-9eec-769536760830,BI Mercado De Capitais,5354ac01-6245-4898-9f1e-972351e867b9,marcela.bosch@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+ebd3546f-b29f-4bda-9eec-769536760830,BI Mercado De Capitais,5354ac01-6245-4898-9f1e-972351e867b9,marcela.bosch@farmtech.com.br,2026-09-22,2026-09-22,,3,dia
+ebd3546f-b29f-4bda-9eec-769536760830,BI Mercado De Capitais,9ae7e93a-5b54-458f-9c0e-c0581c089d40,daniel.santana@farmtech.com.br,2026-10-14,2026-10-14,,9,dia
+ebd3546f-b29f-4bda-9eec-769536760830,BI Mercado De Capitais,9ae7e93a-5b54-458f-9c0e-c0581c089d40,marcos.barbosa@farmtech.com.br,2026-09-29,2026-09-29,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,0315008e-aa99-45c4-9dfc-2a529ca6ccb5,bruna.umino@farmtech.com.br,2026-03-09,2026-03-24,2026-04-03,1,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,0315008e-aa99-45c4-9dfc-2a529ca6ccb5,carina.moraes@farmtech.com.br,2026-03-09,2026-03-24,2026-04-03,2,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,0315008e-aa99-45c4-9dfc-2a529ca6ccb5,maria.olino@farmtech.com.br,2026-03-09,2026-03-24,2026-04-03,1,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,0315008e-aa99-45c4-9dfc-2a529ca6ccb5,maria.olino@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,0315008e-aa99-45c4-9dfc-2a529ca6ccb5,matheus.rodrigues@farmtech.com.br,2026-03-09,2026-03-09,2026-04-03,2,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,0315008e-aa99-45c4-9dfc-2a529ca6ccb5,matheus.rodrigues@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,0315008e-aa99-45c4-9dfc-2a529ca6ccb5,matheus.rodrigues@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,235ba664-11ad-4d84-a7b0-886ab4ed489c,joao.victor@farmtech.com.br,2026-09-16,2026-09-16,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,235ba664-11ad-4d84-a7b0-886ab4ed489c,joao.victor@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,235ba664-11ad-4d84-a7b0-886ab4ed489c,juan.pimentel@farmtech.com.br,2026-10-07,2026-10-07,,3,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,235ba664-11ad-4d84-a7b0-886ab4ed489c,juan.pimentel@farmtech.com.br,2026-10-08,2026-10-08,,2,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,235ba664-11ad-4d84-a7b0-886ab4ed489c,juan.pimentel@farmtech.com.br,2026-10-09,2026-10-09,,3,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,Rafael.Pilla@farmtech.com.br,2026-09-20,2026-09-20,,3,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,bruna.umino@farmtech.com.br,2026-03-09,2026-03-25,2026-04-03,8,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,caio.rodrigues@farmtech.com.br,2026-03-09,2026-03-20,2026-04-03,1,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,caio.rodrigues@farmtech.com.br,2026-09-14,2026-09-14,,2,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,caio.rodrigues@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,caio.rodrigues@farmtech.com.br,2026-10-01,2026-10-01,,3,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,daniel.peres@farmtech.com.br,2026-03-09,2026-03-13,2026-04-03,1,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,daniel.romano@farmtech.com.br,2026-09-14,2026-09-14,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,daniel.romano@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,daniel.santana@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,gabriela.silva@farmtech.com.br,2026-03-09,2026-03-26,2026-04-03,1,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,guilherme.batista@farmtech.com.br,2026-03-09,2026-03-30,2026-04-03,9,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,guilherme.batista@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,gustavo.natal@farmtech.com.br,2026-03-09,2026-03-26,2026-04-03,1,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,gustavo.resende@farmtech.com.br,2026-03-09,2026-03-31,2026-04-03,6,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,joao.victor@farmtech.com.br,2026-03-09,2026-04-02,2026-04-03,19,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,joao.victor@farmtech.com.br,2026-09-16,2026-09-16,,2,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,joao.victor@farmtech.com.br,2026-10-02,2026-10-02,,5,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,joao.victor@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,joao.victor@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,josue.nascimento@farmtech.com.br,2026-10-02,2026-10-02,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,liz.martins@farmtech.com.br,2026-03-09,2026-04-03,2026-04-03,24,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,liz.martins@farmtech.com.br,2026-09-25,2026-09-25,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,marcos.barbosa@farmtech.com.br,2026-03-09,2026-03-25,2026-04-03,1,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,marcos.barbosa@farmtech.com.br,2026-09-15,2026-09-15,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,marcos.barbosa@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,maria.olino@farmtech.com.br,2026-03-09,2026-03-26,2026-04-03,22,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,maria.olino@farmtech.com.br,2026-09-16,2026-09-16,,2,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,maria.olino@farmtech.com.br,2026-09-21,2026-09-21,,3,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,maria.olino@farmtech.com.br,2026-09-22,2026-09-22,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,maria.olino@farmtech.com.br,2026-09-23,2026-09-23,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,matheus.rodrigues@farmtech.com.br,2026-03-09,2026-03-09,2026-04-03,4,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,matheus.rodrigues@farmtech.com.br,2026-09-21,2026-09-21,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,matheus.rodrigues@farmtech.com.br,2026-09-22,2026-09-22,,2,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,matheus.rodrigues@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,miguel.augusto@farmtech.com.br,2026-03-09,2026-04-01,2026-04-03,4,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,priscila.rangel@farmtech.com.br,2026-03-09,2026-03-16,2026-04-03,1,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,8b80e3c5-c582-4dc9-8d4c-26d7236117a3,rodrigo.deus@farmtech.com.br,2026-03-09,2026-03-25,2026-04-03,4,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,93867934-2f2f-46c1-ab14-37c988c45b2f,guilherme.batista@farmtech.com.br,2026-03-09,2026-03-30,2026-04-03,1,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,93867934-2f2f-46c1-ab14-37c988c45b2f,gustavo.resende@farmtech.com.br,2026-03-09,2026-03-10,2026-04-03,2,janela
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,93867934-2f2f-46c1-ab14-37c988c45b2f,joao.victor@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,93867934-2f2f-46c1-ab14-37c988c45b2f,liz.martins@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+b6db0c81-9ab2-4c1e-a092-635d4851046e,BI Métricas & KPIs,93867934-2f2f-46c1-ab14-37c988c45b2f,miguel.augusto@farmtech.com.br,2026-03-09,2026-03-23,2026-04-03,1,janela
+4240531c-86dc-4c44-940c-e12616563891,BI Tecnologia,4f00d4be-0b70-4ae5-a59c-ab7bcce96133,vinicius.coelho@farmtech.com.br,2026-10-02,2026-10-02,,2,dia
+4240531c-86dc-4c44-940c-e12616563891,BI Tecnologia,4f00d4be-0b70-4ae5-a59c-ab7bcce96133,vinicius.coelho@farmtech.com.br,2026-10-07,2026-10-07,,1,dia
+4240531c-86dc-4c44-940c-e12616563891,BI Tecnologia,8317100d-2406-4b7e-b9cd-46e4783b4227,jessica.bruno@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+4240531c-86dc-4c44-940c-e12616563891,BI Tecnologia,8317100d-2406-4b7e-b9cd-46e4783b4227,jessica.bruno@farmtech.com.br,2026-09-30,2026-09-30,,1,dia
+4240531c-86dc-4c44-940c-e12616563891,BI Tecnologia,8810f1d4-3ae5-46d5-a3e9-e9bbc7de6b34,daniel.santana@farmtech.com.br,2026-10-14,2026-10-14,,1,dia
+4240531c-86dc-4c44-940c-e12616563891,BI Tecnologia,8810f1d4-3ae5-46d5-a3e9-e9bbc7de6b34,paulo.souza@farmtech.com.br,2026-09-17,2026-09-17,,1,dia
+4240531c-86dc-4c44-940c-e12616563891,BI Tecnologia,8810f1d4-3ae5-46d5-a3e9-e9bbc7de6b34,rafael.scane@farmtech.com.br,2026-09-21,2026-09-21,,3,dia
+4240531c-86dc-4c44-940c-e12616563891,BI Tecnologia,b24bd0b2-2e64-4bed-aae4-59341b5853e3,danilo.queiroz@farmtech.com.br,2026-09-23,2026-09-23,,2,dia
+4240531c-86dc-4c44-940c-e12616563891,BI Tecnologia,b24bd0b2-2e64-4bed-aae4-59341b5853e3,jessica.bruno@farmtech.com.br,2026-09-24,2026-09-24,,1,dia
+4240531c-86dc-4c44-940c-e12616563891,BI Tecnologia,b24bd0b2-2e64-4bed-aae4-59341b5853e3,jessica.bruno@farmtech.com.br,2026-10-08,2026-10-08,,1,dia
+4240531c-86dc-4c44-940c-e12616563891,BI Tecnologia,decda14a-36eb-4a90-be7f-e1b2eeddf1c4,jessica.bruno@farmtech.com.br,2026-09-18,2026-09-18,,1,dia
+4240531c-86dc-4c44-940c-e12616563891,BI Tecnologia,e1a791c8-b9b4-49a8-aa90-184a02f7a116,daniel.santana@farmtech.com.br,2026-10-14,2026-10-14,,15,dia
