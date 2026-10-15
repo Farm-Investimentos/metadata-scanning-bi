@@ -1,5 +1,19 @@
 # Catálogo de BIs · Metadata Scanning Power BI
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+[![Abrir Inventário](https://img.shields.io/badge/🌐%20Abrir%20Inventário-61E33D?style=for-the-badge)](https://daniel-santana-farm.github.io/metadata-scanning-bi/03-dashboard/inventario.html)
+[![Abrir Catálogo](https://img.shields.io/badge/📊%20Abrir%20Catálogo-030B09?style=for-the-badge)](https://daniel-santana-farm.github.io/metadata-scanning-bi/)
+
+> 🔗 **Acesse online:** https://daniel-santana-farm.github.io/metadata-scanning-bi/03-dashboard/inventario.html
+
 O projeto tem como objetivo mapear e catalogar todo o ecossistema de Power BI da Farmtech por meio da Scanner API REST, criando um inventário corporativo de workspaces, relatórios e datasets. Além do levantamento técnico dos ativos, serão documentados responsáveis, objetivos de negócio, métricas, fontes de dados, frequência de atualização, público consumidor, criticidade e qualidade das informações.
 
 O catálogo servirá como base para a governança analítica da empresa, permitindo identificar sobreposições, oportunidades de consolidação e ativos sem utilização, além de apoiar a reorganização dos relatórios em domínios de negócio padronizados
