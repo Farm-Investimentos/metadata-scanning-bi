@@ -104,8 +104,8 @@
     current = view;
     $$("#nav button").forEach(b => b.classList.toggle("active", b.dataset.view === view));
     $$(".view").forEach(v => v.classList.toggle("active", v.id === "view-" + view));
-    $("#viewKicker").textContent = VIEWS[view][0];
-    $("#viewTitle").textContent = VIEWS[view][1];
+    if ($("#viewKicker")) $("#viewKicker").textContent = VIEWS[view][0];
+    if ($("#viewTitle")) $("#viewTitle").textContent = VIEWS[view][1];  // título é opcional no HTML
     $(".sidebar").classList.remove("open");
     try { history.replaceState(null, "", "#" + view); } catch (e) { /* file:// restrito */ }
     if (!rendered[view]) { RENDER[view](); rendered[view] = true; }
