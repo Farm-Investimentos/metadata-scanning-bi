@@ -9,8 +9,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-[![Abrir Inventário](https://img.shields.io/badge/🌐%20Abrir%20Inventário-61E33D?style=for-the-badge)](https://daniel-santana-farm.github.io/metadata-scanning-bi/03-dashboard/inventario.html)
-[![Abrir Catálogo](https://img.shields.io/badge/📊%20Abrir%20Catálogo-030B09?style=for-the-badge)](https://daniel-santana-farm.github.io/metadata-scanning-bi/)
+[![Abrir Inventário](https://img.shields.io/badge/🌐%20Abrir%20Inventário-61E33D?style=for-the-badge)](https://farm-investimentos.github.io/metadata-scanning-bi/03-dashboard/inventario.html)
+[![Abrir Catálogo](https://img.shields.io/badge/📊%20Abrir%20Catálogo-030B09?style=for-the-badge)](https://farm-investimentos.github.io/metadata-scanning-bi/)
 
 O projeto tem como objetivo mapear e catalogar todo o ecossistema de Power BI da Farmtech por meio da Scanner API REST, criando um inventário corporativo de workspaces, relatórios e datasets. Além do levantamento técnico dos ativos, serão documentados responsáveis, objetivos de negócio, métricas, fontes de dados, frequência de atualização, público consumidor, criticidade e qualidade das informações.
 
