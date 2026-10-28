@@ -56,8 +56,7 @@ metadata-scanning-bi/
 │   └── data/catalogo_data.js     (gerado pelo passo 02; não editar à mão)
 │
 └── Design-System/
-    ├── Cronograma Onboarding.pptx   ← referência de cores e tipografia
-    └── logo_farm.jpg                ← logo original (fonte dos PNGs em assets/img)
+    ├── logo_farm.jpg                ← logo original (fonte dos PNGs em assets/img)
 ```
 
 ## Como atualizar
