@@ -179,7 +179,7 @@
     "Risco": "Acompanhamento do risco: rating, concentração, exposição, garantias, enquadramento e diligências.",
     "Cotas": "Fundos e cotas: patrimônio (PL), subordinação, FIDC, rentabilidade e CDI.",
     "Limites": "Limites de crédito: limite operacional, DPP, crédito disponível e exposição total.",
-    "PDD": "Provisão para perdas: PDD, perda esperada, excesso de spread e write-off.",
+    "PDD": "Provisão para perdas: representando a Perda Esperada de Crédito (Expected Credit Loss); é mitigada pelo Excesso de Spread (Excess Spread) e consumida no momento da Baixa por Perda (Write-off).",
     "Compliance": "Pareceres e checagens: KYC/PLD, bureaus, processos, PEP, listas restritivas e antecipados.",
     "Cliente": "Quem é o cliente: cadastro, cedente, devedor, produtor, revendas, grupos econômicos e contato.",
     "Outros": "Não se encaixou em nenhum tema pelas palavras-chave: precisa de classificação manual.",
