@@ -70,6 +70,18 @@ metadata-scanning-bi/
 
 Dependências do processamento: `pandas` e `openpyxl`, que já estão na `.venv`.
 
+### Atualização automática (CI/CD)
+
+`01-extracao/bi_catalog.py` é a versão script do notebook, com os mesmos argumentos:
+
+```powershell
+.venv\Scripts\python.exe 01-extracao\bi_catalog.py --all --atualizar-uso
+```
+
+O workflow `.github/workflows/atualizar-catalogo.yml` roda todo dia 1º do mês (ou sob demanda em **Actions → Atualizar catálogo → Run workflow**): extrai, gera `data/catalogo_data.js` e faz commit do resultado. Para funcionar ele precisa de uma entidade de serviço com acesso aos workspaces, cadastrada nos secrets `AZURE_TENANT_ID`, `AZURE_CLIENT_ID` e `AZURE_CLIENT_SECRET`. Sem esses secrets, o script usa o `az login` do seu usuário, como o notebook.
+
+Ao alterar a lógica de extração no notebook, replique em `bi_catalog.py` (é ele que roda agendado).
+
 ---
 
 ## O que o painel mostra

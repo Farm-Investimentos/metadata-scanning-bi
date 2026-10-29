@@ -1,0 +1,48 @@
+# Extrai os metadados do Power BI, regenera o painel e versiona o resultado.
+# O deploy do painel (ex.: Azure Static Web Apps) dispara pelo push que este workflow faz.
+#
+# Secrets necessários (Settings > Secrets and variables > Actions):
+#   AZURE_TENANT_ID, AZURE_CLIENT_ID, AZURE_CLIENT_SECRET  ← entidade de serviço com acesso aos workspaces
+name: Atualizar catálogo
+
+on:
+  schedule:
+    - cron: "0 9 1 * *"   # dia 1º de cada mês, 6h de Brasília
+  workflow_dispatch:       # botão "Run workflow" para rodar sob demanda
+
+permissions:
+  contents: write
+
+concurrency: atualizar-catalogo
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Extrair metadados do Power BI
+        env:
+          AZURE_TENANT_ID: ${{ secrets.AZURE_TENANT_ID }}
+          AZURE_CLIENT_ID: ${{ secrets.AZURE_CLIENT_ID }}
+          AZURE_CLIENT_SECRET: ${{ secrets.AZURE_CLIENT_SECRET }}
+        run: python 01-extracao/bi_catalog.py --all --atualizar-uso
+
+      - name: Gerar dados do painel
+        run: python 02-processamento/gerar_catalogo.py
+
+      - name: Versionar resultado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add 03-dashboard/data/catalogo_data.js saida/historico_uso.csv saida/historico_page_views.csv saida/catalogo_metadados.xlsx
+          git diff --cached --quiet || git commit -m "Atualiza catálogo de metadados (automático)"
+          git push
