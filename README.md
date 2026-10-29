@@ -78,7 +78,27 @@ Dependências do processamento: `pandas` e `openpyxl`, que já estão na `.venv`
 .venv\Scripts\python.exe 01-extracao\bi_catalog.py --all --atualizar-uso
 ```
 
-O workflow `.github/workflows/atualizar-catalogo.yml` roda todo dia 1º do mês (ou sob demanda em **Actions → Atualizar catálogo → Run workflow**): extrai, gera `data/catalogo_data.js` e faz commit do resultado. Para funcionar ele precisa de uma entidade de serviço com acesso aos workspaces, cadastrada nos secrets `AZURE_TENANT_ID`, `AZURE_CLIENT_ID` e `AZURE_CLIENT_SECRET`. Sem esses secrets, o script usa o `az login` do seu usuário, como o notebook.
+O workflow `.github/workflows/atualizar-catalogo.yml` roda todo dia 1º do mês (ou sob demanda em **Actions → Atualizar catálogo → Run workflow**): extrai, gera `data/catalogo_data.js` e faz commit do resultado.
+
+#### Credenciais: precisa de `.env`?
+
+**Não.** O projeto não usa arquivo `.env`, e credenciais nunca devem ser versionadas.
+
+| Onde roda | Como autentica | O que configurar |
+|---|---|---|
+| Na sua máquina (notebook ou `bi_catalog.py`) | Seu usuário, via `az login` ou o navegador | Nada |
+| No GitHub Actions (agendado) | Entidade de serviço (service principal) | Secrets `AZURE_TENANT_ID`, `AZURE_CLIENT_ID` e `AZURE_CLIENT_SECRET` em **Settings → Secrets and variables → Actions** |
+
+A entidade de serviço é criada pela TI no Entra ID. Ela precisa ser membro dos workspaces e o tenant do Power BI precisa permitir que entidades de serviço usem as APIs.
+
+Para testar a entidade de serviço localmente, defina as variáveis só na sessão do terminal:
+
+```powershell
+$env:AZURE_TENANT_ID = "..."; $env:AZURE_CLIENT_ID = "..."; $env:AZURE_CLIENT_SECRET = "..."
+.venv\Scripts\python.exe 01-extracao\bi_catalog.py --list
+```
+
+> ⚠️ **Sem esses secrets, a execução automática falha no login.** Ela só gera um e-mail de falha do GitHub e não altera nada no repositório nem no Power BI. Para evitar o alarme até a TI criar a entidade de serviço, desative o workflow temporariamente em **Actions → Atualizar catálogo → ··· → Disable workflow**.
 
 Ao alterar a lógica de extração no notebook, replique em `bi_catalog.py` (é ele que roda agendado).
 

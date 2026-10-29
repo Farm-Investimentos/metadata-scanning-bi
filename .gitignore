@@ -7,3 +7,4 @@ __pycache__/
 # saídas brutas pesadas (regeneradas pelo pipeline)
 saida/metadados.json
 saida/*.xlsx
+.env
