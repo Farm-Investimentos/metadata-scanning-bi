@@ -28,6 +28,7 @@ metadata-scanning-bi/
 ├── ABRIR_CATALOGO.html        ← atalho: abre o catálogo analítico
 ├── ABRIR_INVENTARIO.html      ← atalho: abre o inventário estruturado
 ├── ATUALIZAR_CATALOGO.bat     ← regenera os dados dos painéis a partir do Excel e abre o catálogo
+├── Dockerfile / docker-compose.yml / deploy/  ← produção no EC2 (veja "Produção (EC2 + Docker)")
 ├── README.md
 │
 ├── 01-extracao/
@@ -70,37 +71,54 @@ metadata-scanning-bi/
 
 Dependências do processamento: `pandas` e `openpyxl`, que já estão na `.venv`.
 
-### Atualização automática (CI/CD)
+### Produção (EC2 + Docker)
 
-`01-extracao/bi_catalog.py` é a versão script do notebook, com os mesmos argumentos:
+Em produção o catálogo roda num **EC2 da AWS** com Docker. **Ninguém precisa de Docker na própria máquina**: o desenvolvimento continua com a `.venv` e o notebook, e o Docker só existe no EC2 (e no GitHub Actions, que confere o build).
 
-```powershell
-.venv\Scripts\python.exe 01-extracao\bi_catalog.py --all --atualizar-uso
+```text
+EC2
+├── painel    (nginx)   serve 03-dashboard na porta 80, sempre no ar
+└── extracao  (Python)  todo dia 1º, 6h: extrai do Power BI → gera o painel
+    dados/              fora do git: saida/, painel/ (catalogo_data.js) e auth/ (login salvo)
 ```
 
-O workflow `.github/workflows/atualizar-catalogo.yml` roda todo dia 1º do mês (ou sob demanda em **Actions → Atualizar catálogo → Run workflow**): extrai, gera `data/catalogo_data.js` e faz commit do resultado.
+| Arquivo | Para que serve |
+|---|---|
+| `01-extracao/bi_catalog.py` | Versão script do notebook (mesmos argumentos, mais `--gerar-painel` e `--login-dispositivo`) |
+| `Dockerfile` | Imagem da extração |
+| `docker-compose.yml` | Sobe o painel e define o job de extração |
+| `deploy/instalar-ec2.sh` | Prepara o EC2 uma vez (Docker, dados iniciais, cron) |
+| `deploy/atualizar.sh` | O que o cron roda: `git pull`, build e extração |
+| `.github/workflows/ci.yml` | A cada push/PR, confere que a imagem builda |
 
-#### Credenciais: precisa de `.env`?
+**Instalar no EC2 (uma vez):**
 
-**Não.** O projeto não usa arquivo `.env`, e credenciais nunca devem ser versionadas.
+```sh
+git clone https://github.com/Farm-Investimentos/metadata-scanning-bi.git /opt/metadata-scanning-bi
+cd /opt/metadata-scanning-bi
+sudo sh deploy/instalar-ec2.sh
+sudo docker compose run --rm extracao --login-dispositivo   # login único, veja abaixo
+sudo sh deploy/atualizar.sh                                 # 1ª extração (opcional, senão espera o dia 1º)
+```
 
-| Onde roda | Como autentica | O que configurar |
+O deploy de código novo é automático: o cron faz `git pull` antes de cada extração. Para aplicar na hora, rode `sudo sh deploy/atualizar.sh`. O log fica em `/var/log/catalogo-bi.log`.
+
+**Segurança de rede:** o painel é servido em HTTP na porta 80. No Security Group do EC2, libere a porta 80 só para a faixa de IPs da VPN/rede da empresa e não exponha o EC2 à internet.
+
+#### Login sem interação manual
+
+O Power BI exige MFA, então **não dá para guardar usuário e senha** em variáveis de ambiente. Existem dois caminhos:
+
+| Caminho | Como funciona | Limitação |
 |---|---|---|
-| Na sua máquina (notebook ou `bi_catalog.py`) | Seu usuário, via `az login` ou o navegador | Nada |
-| No GitHub Actions (agendado) | Entidade de serviço (service principal) | Secrets `AZURE_TENANT_ID`, `AZURE_CLIENT_ID` e `AZURE_CLIENT_SECRET` em **Settings → Secrets and variables → Actions** |
+| **Login por código (usa o seu usuário)** | Uma vez no EC2: `docker compose run --rm extracao --login-dispositivo`. Ele mostra um código; você abre https://microsoft.com/devicelogin no seu computador ou celular, entra com a conta Farmtech e faz o MFA. O login fica salvo em `dados/auth/` e se renova sozinho a cada execução mensal | O login expira após ~90 dias sem uso, ou antes se a TI tiver política de reautenticação. Se você trocar a senha ou sair da empresa, a extração para. Algumas empresas bloqueiam esse tipo de login por acesso condicional |
+| **Entidade de serviço (recomendado a médio prazo)** | A TI cria um app no Entra ID e você cria o `.env` no EC2 (fora do git) com `AZURE_TENANT_ID`, `AZURE_CLIENT_ID` e `AZURE_CLIENT_SECRET` | A entidade precisa ser membro dos workspaces e o tenant do Power BI precisa liberar APIs para entidades de serviço. O segredo expira e precisa ser renovado (até 24 meses) |
 
-A entidade de serviço é criada pela TI no Entra ID. Ela precisa ser membro dos workspaces e o tenant do Power BI precisa permitir que entidades de serviço usem as APIs.
+Se o `.env` existir, ele tem prioridade. Na sua máquina nada muda: o notebook e o script usam o `az login` ou o navegador.
 
-Para testar a entidade de serviço localmente, defina as variáveis só na sessão do terminal:
+> ⚠️ Se o login expirar, a extração do mês falha, mas o painel continua no ar com os dados anteriores. Confira o log e refaça o `--login-dispositivo`.
 
-```powershell
-$env:AZURE_TENANT_ID = "..."; $env:AZURE_CLIENT_ID = "..."; $env:AZURE_CLIENT_SECRET = "..."
-.venv\Scripts\python.exe 01-extracao\bi_catalog.py --list
-```
-
-> ⚠️ **Sem esses secrets, a execução automática falha no login.** Ela só gera um e-mail de falha do GitHub e não altera nada no repositório nem no Power BI. Para evitar o alarme até a TI criar a entidade de serviço, desative o workflow temporariamente em **Actions → Atualizar catálogo → ··· → Disable workflow**.
-
-Ao alterar a lógica de extração no notebook, replique em `bi_catalog.py` (é ele que roda agendado).
+Ao alterar a lógica de extração no notebook, replique em `bi_catalog.py` (é ele que roda em produção).
 
 ---
 

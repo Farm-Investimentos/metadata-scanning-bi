@@ -1,0 +1,24 @@
+# Produção no EC2 (veja "Produção (EC2)" no README).
+#   painel:   nginx servindo 03-dashboard, sempre no ar
+#   extracao: job agendado; roda com `docker compose run --rm extracao`
+# Dados ficam em $DADOS (padrão ./dados), fora do git: saída da extração, dados do painel e login salvo.
+services:
+  painel:
+    image: nginx:1.27-alpine
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    volumes:
+      - ./03-dashboard:/usr/share/nginx/html:ro
+      - ${DADOS:-./dados}/painel:/usr/share/nginx/html/data:ro
+
+  extracao:
+    build: .
+    profiles: ["job"]   # não sobe com `docker compose up`
+    env_file:
+      - path: .env      # opcional: AZURE_TENANT_ID / AZURE_CLIENT_ID / AZURE_CLIENT_SECRET da entidade de serviço
+        required: false
+    volumes:
+      - ${DADOS:-./dados}/saida:/app/saida
+      - ${DADOS:-./dados}/painel:/app/03-dashboard/data
+      - ${DADOS:-./dados}/auth:/app/auth

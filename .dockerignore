@@ -1,0 +1,4 @@
+*
+!requirements.txt
+!01-extracao/bi_catalog.py
+!02-processamento/*.py

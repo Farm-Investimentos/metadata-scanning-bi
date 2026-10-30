@@ -1,0 +1,23 @@
+# CI: confere a cada push/PR que a imagem da extração builda e que os scripts carregam.
+# O deploy é feito pelo próprio EC2 (deploy/atualizar.sh faz git pull todo dia 1º).
+name: CI
+
+on:
+  push:
+    branches: [develop, main]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build da imagem
+        run: docker build -t catalogo-bi .
+
+      - name: Teste rápido
+        run: docker run --rm catalogo-bi --help
+
+      - name: Valida docker-compose.yml
+        run: docker compose config --quiet

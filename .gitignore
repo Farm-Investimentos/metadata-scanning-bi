@@ -8,3 +8,5 @@ __pycache__/
 saida/metadados.json
 saida/*.xlsx
 .env
+dados/
+.auth/

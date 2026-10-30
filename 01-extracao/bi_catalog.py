@@ -1,11 +1,14 @@
 """Catálogo de metadados do Power BI: versão script de bi-catalog-v2.ipynb, para rodar agendado (CI/CD).
 
-Login: com AZURE_TENANT_ID, AZURE_CLIENT_ID e AZURE_CLIENT_SECRET definidos usa a entidade de serviço;
-sem eles, usa `az login` ou o navegador, igual ao notebook.
+Login, na ordem:
+  1. entidade de serviço, se AZURE_TENANT_ID, AZURE_CLIENT_ID e AZURE_CLIENT_SECRET estiverem definidos;
+  2. login salvo por --login-dispositivo (servidor sem navegador, ex.: EC2), renovado sozinho a cada execução;
+  3. `az login` ou o navegador, igual ao notebook.
 
 Uso:
-  python 01-extracao/bi_catalog.py --all --atualizar-uso
+  python 01-extracao/bi_catalog.py --all --atualizar-uso --gerar-painel
   python 01-extracao/bi_catalog.py --workspace "BI Credito"
+  python 01-extracao/bi_catalog.py --login-dispositivo     # uma vez no servidor
 """
 import argparse
 import hashlib
@@ -18,9 +21,15 @@ from collections import defaultdict
 from pathlib import Path
 import pandas as pd
 import requests
-from azure.identity import AzureCliCredential, EnvironmentCredential, InteractiveBrowserCredential
+from azure.identity import (AuthenticationRecord, AzureCliCredential, DeviceCodeCredential, EnvironmentCredential,
+                            InteractiveBrowserCredential, TokenCachePersistenceOptions)
 
 RAIZ = Path(__file__).resolve().parents[1]
+
+# login por código de dispositivo: registro da conta + cache do token (no Docker, pasta montada como volume)
+AUTH_DIR = Path(os.environ.get("CATALOGO_AUTH_DIR", RAIZ / ".auth"))
+REGISTRO_LOGIN = AUTH_DIR / "registro_login.json"
+CACHE_LOGIN = TokenCachePersistenceOptions(name="catalogo-bi", allow_unencrypted_storage=True)
 
 
 BASE = "https://api.powerbi.com/v1.0/myorg"
@@ -61,6 +70,11 @@ def token():
     if os.environ.get("AZURE_CLIENT_SECRET"):
         # execução agendada (CI): entidade de serviço via AZURE_TENANT_ID / AZURE_CLIENT_ID / AZURE_CLIENT_SECRET
         t = EnvironmentCredential().get_token(SCOPE)
+    elif REGISTRO_LOGIN.exists():
+        # servidor: usa o login salvo por --login-dispositivo; o token se renova sem MFA enquanto o login valer
+        t = DeviceCodeCredential(authentication_record=AuthenticationRecord.deserialize(REGISTRO_LOGIN.read_text()),
+                                 cache_persistence_options=CACHE_LOGIN,
+                                 disable_automatic_authentication=True).get_token(SCOPE)
     else:
         try:
             t = AzureCliCredential().get_token(SCOPE)
@@ -68,6 +82,16 @@ def token():
             t = InteractiveBrowserCredential().get_token(SCOPE)
     _tok.update(value=t.token, exp=t.expires_on)
     return t.token
+
+
+def login_dispositivo():
+    """Login único em servidor sem navegador: mostra um código para abrir em https://microsoft.com/devicelogin
+    (em qualquer computador ou celular) e salva o login em AUTH_DIR para as próximas execuções."""
+    cred = DeviceCodeCredential(cache_persistence_options=CACHE_LOGIN)
+    registro = cred.authenticate(scopes=[SCOPE])
+    AUTH_DIR.mkdir(parents=True, exist_ok=True)
+    REGISTRO_LOGIN.write_text(registro.serialize(), encoding="utf-8")
+    print(f"Login salvo para {registro.username} em {REGISTRO_LOGIN}")
 
 
 def api(method, path, ctx="", quiet=False, **kw):
@@ -605,7 +629,13 @@ def main(argv=None):
     ap.add_argument("--mask", action="store_true", help="mascarar servidor/banco/caminho das fontes com hash")
     ap.add_argument("--atualizar-uso", action="store_true",
                     help="dispara o refresh dos modelos 'Usage Metrics Report' antes de ler o uso (traz as views até hoje)")
+    ap.add_argument("--gerar-painel", action="store_true",
+                    help="ao final, regenera 03-dashboard/data/catalogo_data.js (roda o gerar_catalogo.py)")
+    ap.add_argument("--login-dispositivo", action="store_true",
+                    help="faz o login uma vez por código de dispositivo e salva para as execuções agendadas")
     a = ap.parse_args(argv)
+    if a.login_dispositivo:
+        return login_dispositivo()
     MASCARAR = a.mask
     ATUALIZAR_USO = a.atualizar_uso
     T.clear(); ERROS.clear(); VISTOS.clear()  # permite rodar de novo no mesmo kernel
@@ -654,6 +684,12 @@ def main(argv=None):
             ERROS.append({"contexto": ws, "metodo": "-", "endpoint": "coletar_workspace",
                           "status": "exceção", "detalhe": str(e)[:300]})
     exportar(out)
+
+    if a.gerar_painel:
+        sys.path.insert(0, str(RAIZ / "02-processamento"))
+        import gerar_catalogo
+        print()
+        gerar_catalogo.main()
 
 
 if __name__ == "__main__":
